@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://nomacs.org"
+base_url = "https://nomacs.github.io"
 title = "nomacs"
 description = "nomacs is a free, open source image viewer, which supports multiple platforms"
 
