@@ -1,0 +1,3151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>nomacs</title>
+    <subtitle>nomacs is a free, open source image viewer, which supports multiple platforms</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://nomacs.org/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://nomacs.org"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-12T17:05:37+00:00</updated>
+    <id>https://nomacs.org/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Stefan Fiel</title>
+        <published>2024-02-12T17:05:37+00:00</published>
+        <updated>2024-02-12T17:05:37+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/authors/stefan-fiel/"/>
+        <id>https://nomacs.org/authors/stefan-fiel/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/authors/stefan-fiel/">&lt;p&gt;Creator of &lt;strong&gt;nomacs&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sfiel&quot;&gt;@sfiel&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Markus Diem</title>
+        <published>2024-02-12T16:50:46+00:00</published>
+        <updated>2024-02-12T16:50:46+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/authors/markus-diem/"/>
+        <id>https://nomacs.org/authors/markus-diem/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/authors/markus-diem/">&lt;p&gt;Creator of &lt;strong&gt;nomacs&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;diemmarkus&quot;&gt;@diemmarkus&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Installation</title>
+        <published>2024-02-08T18:39:07+00:00</published>
+        <updated>2024-02-08T18:39:07+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/getting-started/installation/"/>
+        <id>https://nomacs.org/docs/getting-started/installation/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/getting-started/installation/">&lt;p&gt;nomacs – Image Lounge is licensed under the GNU General Public License v3
+© Markus Diem, Stefan Fiel, and Florian Kleber, 2011 – 2020&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;windows-7-8-10&quot;&gt;Windows (7&#x2F;8&#x2F;10)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;latest&#x2F;download&#x2F;nomacs-setup-x64.msi&quot;&gt;installer (64 bit)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;latest&#x2F;download&#x2F;nomacs-setup-x64.exe&quot;&gt;multi-user installer (64 bit)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;latest&#x2F;download&#x2F;nomacs-portable-win.zip&quot;&gt;nomacs portable .zip package (64 bit)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;windows-2000-xp-vista&quot;&gt;Windows (2000&#x2F;XP&#x2F;Vista)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;download&#x2F;2.4.6&#x2F;nomacs-2.4.6-x86-WinXP.zip&quot;&gt;nomacs portable .zip package&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&quot;&gt;Click here for older versions&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;flathub&quot;&gt;Flathub&lt;&#x2F;h2&gt;
+&lt;p&gt;We maintain a &lt;a href=&quot;https:&#x2F;&#x2F;flathub.org&#x2F;apps&#x2F;details&#x2F;org.nomacs.ImageLounge&quot;&gt;flathub&lt;&#x2F;a&gt; app.
+We recommend installing nomacs from there if you want to have the latest version.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ubuntu-and-linux-mint&quot;&gt;Ubuntu and Linux Mint&lt;&#x2F;h2&gt;
+&lt;p&gt;nomacs is available in the “universe” repository of Ubuntu.
+Just install it using your favorite package manager.
+Translations can be added with &lt;code&gt;sudo apt-get install nomacs-l10n&lt;&#x2F;code&gt;.
+Install the heif plugin to load heif images.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;debian-fedora&quot;&gt;Debian&#x2F;Fedora&lt;&#x2F;h2&gt;
+&lt;p&gt;nomacs is included in the official repositories.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;arch-linux&quot;&gt;Arch Linux&lt;&#x2F;h2&gt;
+&lt;p&gt;nomacs is available as &lt;a href=&quot;https:&#x2F;&#x2F;aur.archlinux.org&#x2F;packages&#x2F;nomacs&quot;&gt;an AUR package&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;opensuse&quot;&gt;openSUSE&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;software.opensuse.org&#x2F;download&#x2F;package?project=X11:QtDesktop&amp;amp;package=nomacs&quot;&gt;repositories&lt;&#x2F;a&gt; (Tumbleweed, Factory, 12.1, 11.4)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;freebsd&quot;&gt;FreeBSD&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Update your FreeBSD repository and change directory to &lt;code&gt;&#x2F;usr&#x2F;ports&#x2F;graphics&#x2F;nomacs&lt;&#x2F;code&gt;
+(if your repository directory is the default, otherwise change to the particular directory)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Build and install nomacs by typing:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;shell&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-shell &quot;&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;&lt;span&gt;make install clean
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;os-2&quot;&gt;OS&#x2F;2&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;ftp:&#x2F;&#x2F;ftp.netlabs.org&#x2F;pub&#x2F;qtapps&#x2F;nomacs-2.4.6-os2.7z&quot;&gt;.7z package&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;other-linux-distribution&quot;&gt;Other Linux distribution&lt;&#x2F;h2&gt;
+&lt;p&gt;If there is no package available for your favorite distribution,
+you can download the &lt;a href=&quot;http:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;latest&quot;&gt;sources&lt;&#x2F;a&gt;
+and compile nomacs according to the compile instructions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;source&quot;&gt;Source&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs.git&quot;&gt;Git repository&lt;&#x2F;a&gt; (containing the source code of nomacs and all dependencies)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;&quot;&gt;Tarball&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;nomacs-uses-these-libraries&quot;&gt;nomacs uses these libraries&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenCV&lt;&#x2F;li&gt;
+&lt;li&gt;Qt&lt;&#x2F;li&gt;
+&lt;li&gt;LibRaw&lt;&#x2F;li&gt;
+&lt;li&gt;Exiv2&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;herbie-diagnostics&quot;&gt;Herbie – Diagnostics&lt;&#x2F;h2&gt;
+&lt;p&gt;Herbie is a small cpu monitoring tool.
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;diemmarkus&#x2F;Herbie&#x2F;releases&#x2F;download&#x2F;0.2&#x2F;herbie-setup.exe&quot;&gt;Download&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>How to Translate Nomacs</title>
+        <published>2024-02-08T17:47:46+00:00</published>
+        <updated>2024-02-08T17:47:46+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/contributing/translation/"/>
+        <id>https://nomacs.org/docs/contributing/translation/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/contributing/translation/">&lt;p&gt;nomacs uses crowdin.net as tool for translations.&lt;&#x2F;p&gt;
+&lt;p&gt;After choosing a language press “Translate” to get to the translation interface
+(if your language is not available, please send us a message).
+It is obligatory to register at crowdin.net.
+Your translation will be submitted immediately and will become available to all users
+at the next day using the menu ?-&amp;gt;”Update translations”.
+First translate “nmc::DkGlobalSettingsWidget” -&amp;gt; “English” to the name of your language
+e.g. for german “English” is translated to “Deutsch”.
+This string will be displayed in the preferences when choosing the languages.&lt;&#x2F;p&gt;
+&lt;p&gt;Sometime the suggestions of crowdin are fine, but often you have to change them.
+You can filter for untranslated strings, or machine translated string.
+Different characters are used within the strings:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;“&amp;amp;”: The ampersand is used as mnemonic in the menu.
+This means it is the shortcut when pressing the alt-modified.
+For example: The “File” menu is translated as “&amp;amp;File”,
+this means the “F” is underlined in the menu and ALT+F can be used as shortcut to access this menu.&lt;&#x2F;li&gt;
+&lt;li&gt;“%1”: This string is always replaced with strings which are needed for a meaningful message.
+In most of the cases these strings are either image names or directories
+e.g. “Could not save: %1″, here %1 will be replaced with the image name.
+Note: due to some reasons we also have to use %1 for the “°” sign like for rotating the image: “9&amp;amp;0%1 Clockwise”&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If the string or its context is unclear,
+you can use the comment field in the web interface for questions and we will try to answer them as fast as possible.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-apply-a-new-translation-on-your-machine&quot;&gt;How to apply  a new Translation on your machine&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;download the language file from crowdin&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;install Qt Creator (pick the open source installer)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;open a command line and cd to the directory with the downloaded translations (*.ts)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Then type (assuming you downloaded the Catalan translation):&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Windows (change the Qt folder accordingly)&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;powershell&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-powershell &quot;&gt;&lt;code class=&quot;language-powershell&quot; data-lang=&quot;powershell&quot;&gt;&lt;span&gt;C:\Qt\Qt5.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;13.0&lt;&#x2F;span&gt;&lt;span&gt;-x64\bin\&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;lrelease.exe&lt;&#x2F;span&gt;&lt;span&gt; nomacs_ca_ES.ts
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Linux&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;shell&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-shell &quot;&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;&lt;span&gt;lrelease nomacs_ca_ES.ts
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Now you should have a file named &lt;code&gt;nomacs_ca_ES.qm&lt;&#x2F;code&gt; in the same directory.
+Copy this file to the translations folder of nomacs (on windows: &lt;code&gt;C:&#x2F;Program Files&#x2F;nomacs&#x2F;bin&#x2F;translations&lt;&#x2F;code&gt;).&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Introduction</title>
+        <published>2024-02-03T09:54:57+00:00</published>
+        <updated>2024-02-03T09:54:57+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/getting-started/introduction/"/>
+        <id>https://nomacs.org/docs/getting-started/introduction/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/getting-started/introduction/">&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;..&#x2F;home-img.png&quot; alt=&quot;home-img&quot; width=&quot;40%&quot; &gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;nomacs features semi-transparent widgets that display additional information such as thumbnails, metadata or histogram.
+It is able to browse images in zip or MS Office files which can be extracted to a directory.
+Metadata stored with the image can be displayed and you can add notes to images.
+A thumbnail preview of the current folder is included as well as a file explorer panel which allows switching between folders.
+Within a directory you can apply a file filter,
+so that only images are displayed whose filenames have a certain string or match a regular expression.
+Activating the cache allows for instantly switching between images.&lt;&#x2F;p&gt;
+&lt;p&gt;nomacs includes image manipulation methods for adjusting brightness, contrast, saturation, hue, gamma, exposure.
+It has a pseudo color function which allows creating false color images.
+A unique feature of nomacs is the synchronization of multiple instances.
+With this feature you can easily compare images by zooming and&#x2F;or panning
+at the exactly same position or even by overlaying them with different opacity.
+nomacs is licensed under the GNU General Public License v3 and available for Windows, Linux, FreeBSD, Mac, and OS&#x2F;2.
+It is free for private and commercial use. If you want to report any bugs or request new features please use our
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;issues&quot;&gt;tracker&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contributing&quot;&gt;Contributing&lt;&#x2F;h2&gt;
+&lt;p&gt;Find out how to contribute to nomacs. &lt;a href=&quot;..&#x2F;..&#x2F;contributing&#x2F;how-to-contribute&#x2F;&quot;&gt;Contributing →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;help&quot;&gt;Help&lt;&#x2F;h2&gt;
+&lt;p&gt;Get help on nomacs. &lt;a href=&quot;..&#x2F;..&#x2F;help&#x2F;faq&#x2F;&quot;&gt;Help →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Code of Conduct</title>
+        <published>2024-02-03T09:08:13+00:00</published>
+        <updated>2024-02-03T09:08:13+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/contributing/code-of-conduct/"/>
+        <id>https://nomacs.org/docs/contributing/code-of-conduct/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/contributing/code-of-conduct/">&lt;h2 id=&quot;our-pledge&quot;&gt;Our Pledge&lt;&#x2F;h2&gt;
+&lt;p&gt;In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-standards&quot;&gt;Our Standards&lt;&#x2F;h2&gt;
+&lt;p&gt;Examples of behavior that contributes to creating a positive environment include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using welcoming and inclusive language&lt;&#x2F;li&gt;
+&lt;li&gt;Being respectful of differing viewpoints and experiences&lt;&#x2F;li&gt;
+&lt;li&gt;Gracefully accepting constructive criticism&lt;&#x2F;li&gt;
+&lt;li&gt;Focusing on what is best for the community&lt;&#x2F;li&gt;
+&lt;li&gt;Showing empathy towards other community members&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Examples of unacceptable behavior by participants include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The use of sexualized language or imagery and unwelcome sexual attention or advances&lt;&#x2F;li&gt;
+&lt;li&gt;Trolling, insulting&#x2F;derogatory comments, and personal or political attacks&lt;&#x2F;li&gt;
+&lt;li&gt;Public or private harassment&lt;&#x2F;li&gt;
+&lt;li&gt;Publishing others&#x27; private information, such as a physical or electronic address, without explicit permission&lt;&#x2F;li&gt;
+&lt;li&gt;Other conduct which could reasonably be considered inappropriate in a professional setting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;our-responsibilities&quot;&gt;Our Responsibilities&lt;&#x2F;h2&gt;
+&lt;p&gt;Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.&lt;&#x2F;p&gt;
+&lt;p&gt;Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;enforcement&quot;&gt;Enforcement&lt;&#x2F;h2&gt;
+&lt;p&gt;Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at &lt;a href=&quot;https:&#x2F;&#x2F;matrix.to&#x2F;#&#x2F;#nomacs:matrix.org&quot;&gt;https:&#x2F;&#x2F;matrix.to&#x2F;#&#x2F;#nomacs:matrix.org&lt;&#x2F;a&gt;. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.&lt;&#x2F;p&gt;
+&lt;p&gt;Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project&#x27;s leadership.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;attribution&quot;&gt;Attribution&lt;&#x2F;h2&gt;
+&lt;p&gt;This Code of Conduct is adapted from the &lt;a href=&quot;http:&#x2F;&#x2F;contributor-covenant.org&quot;&gt;Contributor Covenant&lt;&#x2F;a&gt;, version 1.4, available at &lt;a href=&quot;http:&#x2F;&#x2F;contributor-covenant.org&#x2F;version&#x2F;1&#x2F;4&#x2F;&quot;&gt;http:&#x2F;&#x2F;contributor-covenant.org&#x2F;version&#x2F;1&#x2F;4&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>FAQ</title>
+        <published>2021-05-01T19:30:00+00:00</published>
+        <updated>2021-05-01T19:30:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/help/faq/"/>
+        <id>https://nomacs.org/docs/help/faq/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/help/faq/">&lt;h2 id=&quot;what-does-nomacs-mean&quot;&gt;What does nomacs mean?&lt;&#x2F;h2&gt;
+&lt;p&gt;First, when we started with the RAW support,
+the MacBeth color charts mostly did not have the colors expected when we loaded the images in nomacs.
+Second, we solely supported Windows and Ubuntu in the beginning.
+At this point we want to thank all the supporters who translate nomacs or build it on other OS.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;is-it-possible-to-put-the-thumbnails-vertically-at-the-left-edge-of-the-screen&quot;&gt;Is it possible to put the thumbnails vertically at the left edge of the screen?&lt;&#x2F;h2&gt;
+&lt;p&gt;Yes, you can right click on the thumbnails panel and then choose e.g. ‘Show Left’.
+You can even undock the thumbnails if you do not like the nice overlay effect.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;is-it-possible-to-stop-movies-such-as-gif-or-mng&quot;&gt;Is it possible to stop movies such as GIF or MNG?&lt;&#x2F;h2&gt;
+&lt;p&gt;Yes, you can hit pause in the toolbar player or by selecting View &amp;gt; Stop Movie.
+If you then save the image, the currently displayed frame will be written.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-is-the-synchronization-all-about&quot;&gt;What is the synchronization all about?&lt;&#x2F;h2&gt;
+&lt;p&gt;We are involved in image processing.
+Hence, we often need to compare the same image after different processing stages.
+So we wanted something that does this job faster and easier than Photoshop.
+That was the initial motivation behind nomacs.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-can-i-support-nomacs&quot;&gt;How can I support nomacs?&lt;&#x2F;h2&gt;
+&lt;p&gt;Your support is always appreciated. You can either support us by:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;translating nomacs to your language&lt;&#x2F;li&gt;
+&lt;li&gt;porting nomacs to a system not yet supported (it should compile on every system that is supported by Qt)&lt;&#x2F;li&gt;
+&lt;li&gt;coding (bug fixes &amp;amp; additional features are always welcome)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Please see the &lt;a href=&quot;&#x2F;docs&#x2F;contributing&#x2F;how-to-contribute&quot;&gt;How to Contribute&lt;&#x2F;a&gt; page.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-translate-nomacs&quot;&gt;How to translate nomacs?&lt;&#x2F;h2&gt;
+&lt;p&gt;Here is a short introduction how to translate nomacs to your language.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;does-nomacs-support-windows-xp-and-or-vista&quot;&gt;Does nomacs support Windows XP and&#x2F;or Vista?&lt;&#x2F;h2&gt;
+&lt;p&gt;The answer is yes and no.
+So neither Windows XP nor Vista are supported in future developments since nomacs 3.0.
+However, nomacs 2.4.6 is a pretty stable version which you can use on these operating systems.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-make-an-unattended-installation-of-nomacs&quot;&gt;How to make an unattended installation of nomacs?&lt;&#x2F;h2&gt;
+&lt;p&gt;When using Windows you can make an unattended installation of nomacs:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;powershell&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-powershell &quot;&gt;&lt;code class=&quot;language-powershell&quot; data-lang=&quot;powershell&quot;&gt;&lt;span&gt;nomacs-setup-x64.msi &#x2F;passive
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>How to Contribute</title>
+        <published>2021-05-01T18:10:00+00:00</published>
+        <updated>2021-05-01T18:10:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/docs/contributing/how-to-contribute/"/>
+        <id>https://nomacs.org/docs/contributing/how-to-contribute/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/docs/contributing/how-to-contribute/">&lt;p&gt;The best way to improve nomacs is your contribution.
+You can submit simple changes such as formatting corrections,
+extend manuals and READMEs where appropriate,
+&lt;a href=&quot;https:&#x2F;&#x2F;crowdin.com&#x2F;project&#x2F;nomacs&quot;&gt;translate nomacs&lt;&#x2F;a&gt;,
+fix bugs, or submit new features.&lt;&#x2F;p&gt;
+&lt;p&gt;Make sure to read the &lt;a href=&quot;..&#x2F;code-of-conduct&#x2F;&quot;&gt;Code of Conduct&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;create-an-issue&quot;&gt;Create an issue&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;issues&#x2F;new?template=bug_report.md&quot;&gt;Bug report&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;issues&#x2F;new?template=feature_request.md&quot;&gt;Feature request&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;improve-documentation&quot;&gt;Improve documentation&lt;&#x2F;h2&gt;
+&lt;p&gt;The documentation lives in &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs.github.io&quot;&gt;&lt;code&gt;nomacs.gitbub.io&lt;&#x2F;code&gt; repository&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contribute-code&quot;&gt;Contribute code&lt;&#x2F;h2&gt;
+&lt;p&gt;If you contribute source code, you should fork and then clone nomacs:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;git&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-git &quot;&gt;&lt;code class=&quot;language-git&quot; data-lang=&quot;git&quot;&gt;&lt;span&gt;git clone git@github.com:your-username&#x2F;nomacs.git
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Build nomacs on your machine.&lt;&#x2F;li&gt;
+&lt;li&gt;Make your changes.&lt;&#x2F;li&gt;
+&lt;li&gt;Commit in small chunks (one feature&#x2F;bug fix per commit).&lt;&#x2F;li&gt;
+&lt;li&gt;Push to your fork and submit a pull request.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;We will comment on pull requests within one week. Here are some things that increase the chances of your PR being accepted:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write good commit messages.&lt;&#x2F;li&gt;
+&lt;li&gt;Follow our style guide.&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t break the &lt;a href=&quot;https:&#x2F;&#x2F;travis-ci.org&#x2F;nomacs&#x2F;nomacs&quot;&gt;Travis&lt;&#x2F;a&gt; build.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;style&quot;&gt;Style&lt;&#x2F;h3&gt;
+&lt;p&gt;nomacs might have a weird coding style at the first glance, however we try to follow at least some rules:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;using namespace&lt;&#x2F;code&gt; is prohibited (even for &lt;code&gt;std&lt;&#x2F;code&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Naming
+&lt;ul&gt;
+&lt;li&gt;Class names start with a capital letter (i.e. &lt;code&gt;DkBaseManipulator&lt;&#x2F;code&gt;).&lt;&#x2F;li&gt;
+&lt;li&gt;Methods start with lowercase (i.e. &lt;code&gt;name()&lt;&#x2F;code&gt;).&lt;&#x2F;li&gt;
+&lt;li&gt;Prefix members with an m (i.e. &lt;code&gt;int mAction = 0&lt;&#x2F;code&gt;).&lt;&#x2F;li&gt;
+&lt;li&gt;Prefix classes with &lt;code&gt;Dk&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;format C++ sources with &lt;code&gt;clang-format -i --style=file your_contribution.cpp&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Encapsulate everything with the namespace &lt;code&gt;nmc&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Right:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;cpp&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-cpp &quot;&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;namespace &lt;&#x2F;span&gt;&lt;span&gt;nmc
+&lt;&#x2F;span&gt;&lt;span&gt;{
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;class &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ebcb8b;&quot;&gt;DllCoreExport&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt; DkBaseManipulator
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;{
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;public&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;:
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;DkBaseManipulator&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;(QAction &lt;&#x2F;span&gt;&lt;span&gt;*&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;action &lt;&#x2F;span&gt;&lt;span&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;);
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;    QString &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;name&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;() &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;const&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;private&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;:
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;    QAction &lt;&#x2F;span&gt;&lt;span&gt;*&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;mAction &lt;&#x2F;span&gt;&lt;span&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;}&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Wrong:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;cpp&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-cpp &quot;&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;class &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ebcb8b;&quot;&gt;DllCoreExport&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt; baseManipulator
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;{
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;public&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;:
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;baseManipulator&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;(QAction&lt;&#x2F;span&gt;&lt;span&gt;* &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Action &lt;&#x2F;span&gt;&lt;span&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;);
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;  QString &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;Name&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;() &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;const&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;private&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;:
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;  QAction&lt;&#x2F;span&gt;&lt;span&gt;*&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt; action &lt;&#x2F;span&gt;&lt;span&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#eff1f5;&quot;&gt;}&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>New Cropping</title>
+        <published>2020-08-07T13:29:38+02:00</published>
+        <updated>2020-08-07T13:29:38+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/new-cropping/"/>
+        <id>https://nomacs.org/blog/new-cropping/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/new-cropping/">&lt;p&gt;we have recreated the crop tool since this is a central feature of nomacs.
+You can test it in this beta release.
+Please leave feedback here so we can improve it for the upcoming release.&lt;&#x2F;p&gt;
+&lt;img alt=&quot;new-cropping&quot; src=&quot;img-2020-08-07-13.31.33.png&quot; width=&quot;100%&quot;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Reset Settings</title>
+        <published>2020-08-05T09:02:32+02:00</published>
+        <updated>2020-08-05T09:02:32+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/reset-settings/"/>
+        <id>https://nomacs.org/blog/reset-settings/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/reset-settings/">&lt;h2 id=&quot;windows&quot;&gt;Windows&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Close all nomacs instances&lt;&#x2F;li&gt;
+&lt;li&gt;Open a Windows Explorer&lt;&#x2F;li&gt;
+&lt;li&gt;In the address bar, type: &lt;code&gt;%appdata%&#x2F;nomacs&#x2F;Image Lounge&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Rename &lt;code&gt;settings.ini&lt;&#x2F;code&gt; to &lt;code&gt;settings-old.ini&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;nomacs will now launch with default settings.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 3.16</title>
+        <published>2020-07-17T09:44:28+02:00</published>
+        <updated>2020-07-17T09:44:28+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-3-16/"/>
+        <id>https://nomacs.org/blog/nomacs-3-16/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-3-16/">&lt;p&gt;nomacs 3.16 is mainly improved behind the scenes.
+We added a few new features though:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;chromestatus.com&#x2F;feature&#x2F;4905307790639104&quot;&gt;AVIF&lt;&#x2F;a&gt; support&lt;&#x2F;li&gt;
+&lt;li&gt;CR3, PCX support&lt;&#x2F;li&gt;
+&lt;li&gt;image editing: blurring added&lt;&#x2F;li&gt;
+&lt;li&gt;plugins: adds composite plugin&lt;&#x2F;li&gt;
+&lt;li&gt;Windows: new &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;download&#x2F;3.16.224&#x2F;nomacs-setup-x64.exe&quot;&gt;multi-user installer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;adds default system theme&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;flathub.org&#x2F;apps&#x2F;details&#x2F;org.nomacs.ImageLounge&quot;&gt;flatpak&lt;&#x2F;a&gt;: adds plugins&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 3.14 π</title>
+        <published>2020-03-13T15:10:38+01:00</published>
+        <updated>2020-03-13T15:10:38+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-3-14/"/>
+        <id>https://nomacs.org/blog/nomacs-3-14/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-3-14/">&lt;p&gt;nomacs 3.14 is here.
+In this release we mainly fixed bugs and added:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;HEIF&#x2F;HEIC support&lt;&#x2F;li&gt;
+&lt;li&gt;Draw &lt;a href=&quot;https:&#x2F;&#x2F;user-images.githubusercontent.com&#x2F;32300858&#x2F;73261901-fcb2c500-4207-11ea-8cd8-b1195daec4ba.gif&quot;&gt;lines&lt;&#x2F;a&gt;,
+arrows, and text to images (thx to &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sirius1242&quot;&gt;@sirius1242&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;start-up time reduced&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 3.12</title>
+        <published>2018-10-22T13:42:52+02:00</published>
+        <updated>2018-10-22T13:42:52+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-3-12/"/>
+        <id>https://nomacs.org/blog/nomacs-3-12/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-3-12/">&lt;p&gt;nomacs 3.12 ships with a new icon theme, an improved dark theme, and speed-ups.
+Here are some other things that changed:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;recent files panel renewed&lt;&#x2F;li&gt;
+&lt;li&gt;new icon theme&lt;&#x2F;li&gt;
+&lt;li&gt;improved drag&amp;amp;drop of thumbnail preview (copy&#x2F;move&#x2F;link)&lt;&#x2F;li&gt;
+&lt;li&gt;editable zoom levels&lt;&#x2F;li&gt;
+&lt;li&gt;fill transparent background with a color added&lt;&#x2F;li&gt;
+&lt;li&gt;LAN client removed&lt;&#x2F;li&gt;
+&lt;li&gt;batch: original filename is added to the metadata&lt;&#x2F;li&gt;
+&lt;li&gt;frameless: multi-screen setup improved&lt;&#x2F;li&gt;
+&lt;li&gt;SVG: resulting image size can be adjusted when converting&lt;&#x2F;li&gt;
+&lt;li&gt;RLE compressed TGA support&lt;&#x2F;li&gt;
+&lt;li&gt;bug fixes&lt;&#x2F;li&gt;
+&lt;li&gt;Updates
+&lt;ul&gt;
+&lt;li&gt;quazip 0.7.6&lt;&#x2F;li&gt;
+&lt;li&gt;libraw 0.18&lt;&#x2F;li&gt;
+&lt;li&gt;exiv2 3.3.2&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Multi User Systems</title>
+        <published>2018-07-09T16:41:04+02:00</published>
+        <updated>2018-07-09T16:41:04+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/multi-user-systems/"/>
+        <id>https://nomacs.org/blog/multi-user-systems/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/multi-user-systems/">&lt;p&gt;in nomacs 3.10.2 we have added a better multi user support because of your feedback.&lt;&#x2F;p&gt;
+&lt;p&gt;Basically you can now create default settings that are applied to all user settings after the first start-up.
+Therefore, you have to export your desired defaults by &lt;code&gt;Edit &amp;gt; Settings &amp;gt; General &amp;gt; Export Settings&lt;&#x2F;code&gt; and name them &lt;code&gt;default.ini&lt;&#x2F;code&gt;.
+If you now replace the default.ini in the nomacs install directory,
+these settings will be applied if a new user starts nomacs for the first time.&lt;&#x2F;p&gt;
+&lt;p&gt;– the nomacs team&lt;&#x2F;p&gt;
+&lt;p&gt;HINT: the check for updates option is an issue for some large companies. Creating a default.ini with this content:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;ini&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-ini &quot;&gt;&lt;code class=&quot;language-ini&quot; data-lang=&quot;ini&quot;&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;[SynchronizeSettings]
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;checkForUpdates&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;false
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;disableUpdateInteraction&lt;&#x2F;span&gt;&lt;span&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;true
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;will disable checking for updates. Additionally, users won’t be able to manually check for updates anymore.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 3.10</title>
+        <published>2018-07-02T16:12:37+02:00</published>
+        <updated>2018-07-02T16:12:37+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-3-10/"/>
+        <id>https://nomacs.org/blog/nomacs-3-10/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-3-10/">&lt;p&gt;nomacs 3.10 is the first feature release since ages. here are some highlights:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;anti-aliasing improved&lt;&#x2F;li&gt;
+&lt;li&gt;printing improved&lt;&#x2F;li&gt;
+&lt;li&gt;print multiple pages from thumbnail preview&lt;&#x2F;li&gt;
+&lt;li&gt;animiated WebP support&lt;&#x2F;li&gt;
+&lt;li&gt;JPG compressed TIFFs supported&lt;&#x2F;li&gt;
+&lt;li&gt;batch cropping added&lt;&#x2F;li&gt;
+&lt;li&gt;PSD lib updated&lt;&#x2F;li&gt;
+&lt;li&gt;new translations: Bosnian, Croation, and Serbian&lt;&#x2F;li&gt;
+&lt;li&gt;Updates (Windows)
+&lt;ul&gt;
+&lt;li&gt;Qt 5.9.3 -&amp;gt; 5.11.0&lt;&#x2F;li&gt;
+&lt;li&gt;OpenCV 3.3.1 -&amp;gt; 3.4.1&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;[EDIT] nomacs 3.10.2 fixes issues with e.g. mng animations and adds a better implementation for &lt;a href=&quot;&#x2F;blog&#x2F;multi-user-systems&quot;&gt;multi-user systems&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 3.8.0</title>
+        <published>2017-11-09T10:39:04+01:00</published>
+        <updated>2017-11-09T10:39:04+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-3-8-0/"/>
+        <id>https://nomacs.org/blog/nomacs-3-8-0/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-3-8-0/">&lt;p&gt;nomacs 3.8.0 is out.
+This release mainly improves stability and features a new (msi) installer for windows.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;New MSI installer (Windows)&lt;&#x2F;li&gt;
+&lt;li&gt;Full PhaseOne Support (Monochrome)&lt;&#x2F;li&gt;
+&lt;li&gt;RAW loader optimized (less RAM &amp;amp; speed-up)&lt;&#x2F;li&gt;
+&lt;li&gt;RAW loading improved (pink pixels reduced)&lt;&#x2F;li&gt;
+&lt;li&gt;Drag &amp;amp; Drop fixed (Linux)&lt;&#x2F;li&gt;
+&lt;li&gt;Batch resize fixed&lt;&#x2F;li&gt;
+&lt;li&gt;GPS link fixed&lt;&#x2F;li&gt;
+&lt;li&gt;Translation downloader fixed&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Please uninstall nomacs manually before installing the new version.
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>MSI Installer</title>
+        <published>2017-05-05T17:42:36+02:00</published>
+        <updated>2017-05-05T17:42:36+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/msi-installer/"/>
+        <id>https://nomacs.org/blog/msi-installer/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/msi-installer/">&lt;p&gt;Since a lot of you were asking for a blind installer and&#x2F;or an msi installer.
+We have now created an msi installer with nomacs 3.6 beta.
+We would be happy if you could test this installer and leave feedback here,
+so that switching to msi in the next version works smooth.
+thanks,
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 3.6</title>
+        <published>2017-03-23T17:23:34+01:00</published>
+        <updated>2017-03-23T17:23:34+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-3-6/"/>
+        <id>https://nomacs.org/blog/nomacs-3-6/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-3-6/">&lt;p&gt;we had a lot of time for coding in winter – so here is a new nomacs with the beginning of spring.
+We manly reworked the image adjustments and added a few such as exposure correction.
+Here is the complete changelog:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Image adjustments introduced&lt;&#x2F;li&gt;
+&lt;li&gt;Exposure added&lt;&#x2F;li&gt;
+&lt;li&gt;Batch&lt;&#x2F;li&gt;
+&lt;li&gt;Improved profiles&lt;&#x2F;li&gt;
+&lt;li&gt;Image adjustments added&lt;&#x2F;li&gt;
+&lt;li&gt;Settings for batch plugins&lt;&#x2F;li&gt;
+&lt;li&gt;Extended tab functions (thanks to @cornytrace)&lt;&#x2F;li&gt;
+&lt;li&gt;Settings Editor&lt;&#x2F;li&gt;
+&lt;li&gt;Icons for high DPI displays&lt;&#x2F;li&gt;
+&lt;li&gt;Crash on exit fixed for Linux with Qt 5.7.1&lt;&#x2F;li&gt;
+&lt;li&gt;Updates (Windows)
+&lt;ul&gt;
+&lt;li&gt;Qt 5.5.1 -&amp;gt; 5.7.0&lt;&#x2F;li&gt;
+&lt;li&gt;OpenCV 3.1 -&amp;gt; 3.2&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;[EDIT] we had to draft a hotfix for translations were not loaded properly in nomacs 3.6.0. So if you already updated to 3.6 please update again to 3.6.1&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 3.4</title>
+        <published>2016-07-22T13:58:07+02:00</published>
+        <updated>2016-07-22T13:58:07+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-3-4/"/>
+        <id>https://nomacs.org/blog/nomacs-3-4/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-3-4/">&lt;p&gt;may we introduce nomacs 3.4 – It’s all fresh and organic.
+This version introduces a new batch processing UI.
+We have added profiles – so you can save common batch configurations (and run them from the command line).&lt;&#x2F;p&gt;
+&lt;p&gt;Info for Windows users: we recommend to uninstall any prior version of nomacs and then install nomacs 3.4.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Batch UI reworked&lt;&#x2F;li&gt;
+&lt;li&gt;Batch Profiles added&lt;&#x2F;li&gt;
+&lt;li&gt;Cropping to metadata&lt;&#x2F;li&gt;
+&lt;li&gt;RGB to Gray improved&lt;&#x2F;li&gt;
+&lt;li&gt;Crash on delete fixed&lt;&#x2F;li&gt;
+&lt;li&gt;Slow thumbnail rendering fixed&lt;&#x2F;li&gt;
+&lt;li&gt;Start-up time improved&lt;&#x2F;li&gt;
+&lt;li&gt;RAW&#x2F;PSD orientation fixed&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 3.2</title>
+        <published>2016-04-28T16:26:41+02:00</published>
+        <updated>2016-04-28T16:26:41+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-3-2/"/>
+        <id>https://nomacs.org/blog/nomacs-3-2/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-3-2/">&lt;p&gt;nomacs 3.2 is out.
+We were working mainly on the plugin framework which is now integrated in the windows installer and fully supported on Linux.
+In addition to this, the preferences are now integrated into nomacs. Here is an overview of the most important changes:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plugin framework redesigned&lt;&#x2F;li&gt;
+&lt;li&gt;New preferences&lt;&#x2F;li&gt;
+&lt;li&gt;Undo &amp;amp; History dock added&lt;&#x2F;li&gt;
+&lt;li&gt;Statusbar improved (e.g. zoom level)&lt;&#x2F;li&gt;
+&lt;li&gt;All Icons are SVG (UHD monitors)&lt;&#x2F;li&gt;
+&lt;li&gt;Compression added to Batch&lt;&#x2F;li&gt;
+&lt;li&gt;Image transitions extended (swipe)&lt;&#x2F;li&gt;
+&lt;li&gt;Logging added&lt;&#x2F;li&gt;
+&lt;li&gt;Recent files cleaned&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs is Accepted for GSoC 2016</title>
+        <published>2016-03-01T10:47:07+01:00</published>
+        <updated>2016-03-01T10:47:07+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-is-accepted-for-gsoc-2016/"/>
+        <id>https://nomacs.org/blog/nomacs-is-accepted-for-gsoc-2016/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-is-accepted-for-gsoc-2016/">&lt;p&gt;following the successful Google Summer of Code participations in 2012 – 2014 together
+with the &lt;a href=&quot;http:&#x2F;&#x2F;www.iue.tuwien.ac.at&#x2F;cse&#x2F;index.php&#x2F;gsoc&#x2F;2016.html&quot;&gt;CSE&lt;&#x2F;a&gt;
+@ &lt;a href=&quot;http:&#x2F;&#x2F;www.tuwien.ac.at&#x2F;&quot;&gt;TU Wien&lt;&#x2F;a&gt; we are accepted again in 2016.
+If you are interested in earning money while developing at an Open Source project… this is your chance!
+You can find more details on how to apply
+&lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20230329004735&#x2F;https:&#x2F;&#x2F;nomacs.org&#x2F;google-summer-of-code-2016&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Tiny Planet for Android</title>
+        <published>2016-02-22T13:49:35+01:00</published>
+        <updated>2016-02-22T13:49:35+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/tiny-planet-for-android/"/>
+        <id>https://nomacs.org/blog/tiny-planet-for-android/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/tiny-planet-for-android/">&lt;p&gt;Fabian integrated the &lt;a href=&quot;&#x2F;blog&#x2F;tiny-planet&#x2F;&quot;&gt;Tiny Planet functionality&lt;&#x2F;a&gt; of nomacs into an Android App.
+With Tiny Planet Maker you can create nice tiny planets from 360° panoramic photographs
+(or regular photographs).&lt;&#x2F;p&gt;
+&lt;a href=&#x27;https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=org.hofapps.tinyplanet&amp;pcampaignid=web_share&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#x27;&gt;
+  &lt;img alt=&#x27;Get it on Google Play&#x27; src=&#x27;https:&#x2F;&#x2F;play.google.com&#x2F;intl&#x2F;en_us&#x2F;badges&#x2F;static&#x2F;images&#x2F;badges&#x2F;en_badge_web_generic.png&#x27;  width=&quot;150px&quot;&#x2F;&gt;
+&lt;&#x2F;a&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;nomacs.org&#x2F;blog&#x2F;tiny-planet-for-android&#x2F;pimgpsh_fullsize_distr.png&quot; alt=&quot;Tiny Planet Maker - UI&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Command Line Options</title>
+        <published>2015-12-17T17:56:06+01:00</published>
+        <updated>2015-12-17T17:56:06+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/command-line-options/"/>
+        <id>https://nomacs.org/blog/command-line-options/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/command-line-options/">&lt;p&gt;we have improved&#x2F;added command line options for nomacs:&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;Usage: nomacs.exe [options] image
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;Options:
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;-?, -h, –help                                   Displays this help.
+&lt;&#x2F;span&gt;&lt;span&gt;-v, –version                                    Displays version information.
+&lt;&#x2F;span&gt;&lt;span&gt;-f, –fullscreen                                 Start in fullscreen.
+&lt;&#x2F;span&gt;&lt;span&gt;-p, –private                                    Start in private mode.
+&lt;&#x2F;span&gt;&lt;span&gt;-m, –mode &amp;lt;default | frameless | pseudocolor&amp;gt;   Set the viewing mode &amp;lt;mode&amp;gt;.
+&lt;&#x2F;span&gt;&lt;span&gt;-d, –directory &amp;lt;directory&amp;gt;                      Load all files of a &amp;lt;directory&amp;gt;.
+&lt;&#x2F;span&gt;&lt;span&gt;-t, –tab &amp;lt;images&amp;gt;                               Load &amp;lt;images&amp;gt; to tabs.
+&lt;&#x2F;span&gt;&lt;span&gt;–batch &amp;lt;batch-settings-path&amp;gt;                    Batch processing of &amp;lt;batch-settings.pnm&amp;gt;.
+&lt;&#x2F;span&gt;&lt;span&gt;–batch-log &amp;lt;log-path.txt&amp;gt;                       Saves batch log to &amp;lt;log-path.txt&amp;gt;.
+&lt;&#x2F;span&gt;&lt;span&gt;–import-settings &amp;lt;settings-path.nfo&amp;gt;            Imports the settings from &amp;lt;settings-path.nfo&amp;gt; and saves them.
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;Arguments:
+&lt;&#x2F;span&gt;&lt;span&gt;image                                           An input image.
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Brand your nomacs</title>
+        <published>2015-12-17T17:17:38+01:00</published>
+        <updated>2015-12-17T17:17:38+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/brand-your-nomacs/"/>
+        <id>https://nomacs.org/blog/brand-your-nomacs/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/brand-your-nomacs/">&lt;p&gt;Since nomacs 3, you can change the background image which is displayed on start-up.
+You just need to place an image called ‘bg.png’ into a folder together with your nomacs.exe.
+Here is how this looks like:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;nomacs.org&#x2F;blog&#x2F;brand-your-nomacs&#x2F;tu-branding.png&quot; alt=&quot;tu-branding&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;If you add a second file named ‘bgf.png’, the splash screen of the frameless mode will be overwritten.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Tiny Planet</title>
+        <published>2015-12-17T17:11:49+01:00</published>
+        <updated>2015-12-17T17:11:49+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/tiny-planet/"/>
+        <id>https://nomacs.org/blog/tiny-planet/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/tiny-planet/">&lt;p&gt;nomacs can turn your photo spheres into Tiny Planets.
+Therefore, you first need to capture a photo sphere.
+Here is how you do this in your camera app on Android:&lt;&#x2F;p&gt;
+&lt;img src=&quot;photo-sphere.png&quot; alt=&quot;photo-sphere&quot; width=&quot;100%&quot;&#x2F;&gt;
+&lt;p&gt;In nomacs you can choose Edit &amp;gt; Tiny Planet to turn your favorite photo sphere into a tiny planet.
+&lt;img src=&quot;img-2015-12-17-16.50.43.png&quot; alt=&quot;edit-tiny-planet&quot; width=&quot;100%&quot;&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;In the Tiny Planet dialog, you can adjust the planet’s size and orientation. And here is how the result looks:
+&lt;img src=&quot;kalenberg-new-ps.jpg&quot; alt=&quot;kalenberg-new-ps&quot; width=&quot;100%&quot;&#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 3</title>
+        <published>2015-12-17T13:07:11+01:00</published>
+        <updated>2015-12-17T13:07:11+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-3/"/>
+        <id>https://nomacs.org/blog/nomacs-3/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-3/">&lt;p&gt;nomacs 3.0 is out.
+In the past months we updated all nomacs dependencies and build systems.
+Along with these changes, nomacs ships with a new installer on Windows.
+In addition to these changes, we worked on these features:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;New online installer  – Windows&lt;&#x2F;li&gt;
+&lt;li&gt;Plugins are now available on Linux&lt;&#x2F;li&gt;
+&lt;li&gt;Full SVG support&lt;&#x2F;li&gt;
+&lt;li&gt;Quick Launch added&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;blog&#x2F;tiny-planet&#x2F;&quot;&gt;Tiny planet&lt;&#x2F;a&gt; option added&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;blog&#x2F;batch-processing&#x2F;&quot;&gt;Batch processing&lt;&#x2F;a&gt; improved&lt;&#x2F;li&gt;
+&lt;li&gt;Signed executable – Windows only&lt;&#x2F;li&gt;
+&lt;li&gt;Libraries updated – Qt 5.5, OpenCV 3&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;blog&#x2F;command-line-options&quot;&gt;Command line arguments&lt;&#x2F;a&gt; added&lt;&#x2F;li&gt;
+&lt;li&gt;Zoom control improved&lt;&#x2F;li&gt;
+&lt;li&gt;nomacs learned two new languages – Bulgarian and Ukrainian&lt;&#x2F;li&gt;
+&lt;li&gt;new plugin: Page Extraction – detects and&#x2F;or crops document pages&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;nomacs.org&#x2F;blog&#x2F;nomacs-3&#x2F;nomacs-icon3.png&quot; alt=&quot;nomacs-icon3&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Like &lt;a href=&quot;https:&#x2F;&#x2F;blog.l0cal.com&#x2F;2015&#x2F;06&#x2F;02&#x2F;what-happened-to-sourceforge&#x2F;&quot;&gt;other&lt;&#x2F;a&gt;
+Open Source software, we moved our download pages away from SourceForge.
+These are the new locations:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Installer &lt;a href=&quot;http:&#x2F;&#x2F;download.nomacs.org&quot;&gt;http:&#x2F;&#x2F;download.nomacs.org&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Portable &lt;a href=&quot;http:&#x2F;&#x2F;download.nomacs.org&#x2F;portable&quot;&gt;http:&#x2F;&#x2F;download.nomacs.org&#x2F;portable&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Tarball &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;nomacs&#x2F;nomacs&#x2F;releases&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>James Bomb</title>
+        <published>2015-12-03T09:43:30+01:00</published>
+        <updated>2015-12-03T09:43:30+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/james-bomb/"/>
+        <id>https://nomacs.org/blog/james-bomb/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/james-bomb/">&lt;p&gt;here is a small javascript game we coded years ago. enjoy : )
+&lt;img src=&quot;https:&#x2F;&#x2F;nomacs.org&#x2F;blog&#x2F;james-bomb&#x2F;james-bomb-screenshot.png&quot; alt=&quot;james-bomb-screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 3.0 Beta</title>
+        <published>2015-11-05T18:33:52+01:00</published>
+        <updated>2015-11-05T18:33:52+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-3-0-beta/"/>
+        <id>https://nomacs.org/blog/nomacs-3-0-beta/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-3-0-beta/">&lt;p&gt;nomacs 3.0 Beta is available here (Windows installer only).
+We would love to get your feedback below or in our bug tracker.&lt;&#x2F;p&gt;
+&lt;p&gt;NOTE: this is Beta, so we do not recommend using it in a productive system!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Support nomacs</title>
+        <published>2015-09-30T14:36:09+02:00</published>
+        <updated>2015-09-30T14:36:09+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/support-nomacs/"/>
+        <id>https://nomacs.org/blog/support-nomacs/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/support-nomacs/">&lt;p&gt;nomacs 3 will be released with a brand new &amp;amp; shiny installer.
+Therefore and for &lt;a href=&quot;https:&#x2F;&#x2F;blog.l0cal.com&#x2F;2015&#x2F;06&#x2F;02&#x2F;what-happened-to-sourceforge&#x2F;&quot;&gt;other&lt;&#x2F;a&gt; reasons we will leave sourceforge.
+To guarantee fast downloads, we will rent a webspace which costs around 50€ (~56.085$).
+Now we face two options:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Google AdSense which adds ads to this webpage resulting in an ugly page&lt;&#x2F;li&gt;
+&lt;li&gt;You donate&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;If you donate 50€ until the end of 2015, this page keeps its simple white UI and no ads are added until the end of 2016.
+There are three ways how to keep an ad-free interface:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;a rich contributor donates 50€&lt;&#x2F;li&gt;
+&lt;li&gt;every 100th download 2€ are donated&lt;&#x2F;li&gt;
+&lt;li&gt;every 100th visitor donates 50 cents&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;be part of it:&lt;&#x2F;p&gt;
+&lt;p&gt;thank you&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+&lt;p&gt;[UPDATE]: we have reached our goal of 50€ – thanks to all donators!
+As promised, nomacs.org will remain free from ads and nomacs 3.0 will be hosted on a new server which drastically improves the update process.&lt;&#x2F;p&gt;
+&lt;p&gt;Of course we will still appreciate any donations (we are far from being a big corp : )&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 2.4.6</title>
+        <published>2015-08-18T13:53:10+02:00</published>
+        <updated>2015-08-18T13:53:10+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-2-4-6/"/>
+        <id>https://nomacs.org/blog/nomacs-2-4-6/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-2-4-6/">&lt;p&gt;this version fixes known issues of 2.4.4&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Folder ScrollBar added again (and updated)&lt;&#x2F;li&gt;
+&lt;li&gt;Various crashes are fixed now (metadata saving&#x2F;displaying)&lt;&#x2F;li&gt;
+&lt;li&gt;Sorting fixed&lt;&#x2F;li&gt;
+&lt;li&gt;And some minor bug fixes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Metadata HUD</title>
+        <published>2015-04-15T13:19:51+02:00</published>
+        <updated>2015-04-15T13:19:51+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/metadata-hud/"/>
+        <id>https://nomacs.org/blog/metadata-hud/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/metadata-hud/">&lt;p&gt;We have upgraded the Metadata HUD panel. At a first glance it looks pretty much as in previous versions.
+&lt;img alt=&quot;Metadata HUD&quot; src=&quot;metadata-0000.png&quot; width=&quot;100%&quot;&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;If you right click the panel, there will be a few new options:
+&lt;img alt=&quot;Metadata Panel - Context Menu&quot; src=&quot;metadata-0001.png&quot; width=&quot;100%&quot;&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Similar to the Thumbnail preview, you can choose where to display the panel.
+If the panel is in Horizontal Layout (Top or Bottom) you can choose the number of columns.
+If the data does not fit to the current window size, a scroll bar will appear.&lt;&#x2F;p&gt;
+&lt;p&gt;But the most important improvement is the key selection.
+Up to now you were only able to select pre-defined exif keys.
+Since exif values are pretty dynamic, you can now choose an image which has special entries.
+If you click Change Entries, this dialog will appear:
+&lt;img alt=&quot;key selection&quot; src=&quot;metadata-0002.png&quot; width=&quot;100%&quot;&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The dialog lists all exif entries of the currently loaded image.
+Checking an entry there will add the entry to the metadata HUD.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 2.4.4</title>
+        <published>2015-04-15T11:41:55+02:00</published>
+        <updated>2015-04-15T11:41:55+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-2-4-4/"/>
+        <id>https://nomacs.org/blog/nomacs-2-4-4/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-2-4-4/">&lt;p&gt;this version is mainly a response to all your suggestions and bug reports – thank you for supporting us in increasing nomacs’ performance and usability.
+New features include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved batch processing (you can now add images from multiple folders)&lt;&#x2F;li&gt;
+&lt;li&gt;New Metadata HUD panel (you can dynamically choose entries)&lt;&#x2F;li&gt;
+&lt;li&gt;nomacs respects your default proxy settings (e.g. when [manually] updating)&lt;&#x2F;li&gt;
+&lt;li&gt;The portable version ships with a qss file (so you can customize almost everything)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;the most important fixes are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Default strings are now translated&lt;&#x2F;li&gt;
+&lt;li&gt;Linux file sorting is (hopefully) fixed by now&lt;&#x2F;li&gt;
+&lt;li&gt;Gamma correction for rescaling is now 16 bit (smooth gradients)&lt;&#x2F;li&gt;
+&lt;li&gt;Zoom to Fit added (replaces ‘Reset Zoom’)&lt;&#x2F;li&gt;
+&lt;li&gt;Saving of multiple tabs&lt;&#x2F;li&gt;
+&lt;li&gt;UTF-8 encoding for image notes&lt;&#x2F;li&gt;
+&lt;li&gt;General stability improvements&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;[EDIT] thanks to R3gi we have noticed that nomacs 2.4.4 has slow loading times on Windows 7.
+That is why we updated only these versions to nomacs 2.4.5.
+Sorry for any inconveniences caused!&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Batch Processing</title>
+        <published>2015-03-21T13:06:41+01:00</published>
+        <updated>2015-03-21T13:06:41+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/batch-processing/"/>
+        <id>https://nomacs.org/blog/batch-processing/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/batch-processing/">&lt;p&gt;nomacs supports batch processing since version 2.4.
+You can open the bach processing from the Menu &amp;gt; Tools &amp;gt; Batch Processing.
+Currently there are four different processing modes (Copy&#x2F;Rename | Image Format Conversion | Image Resize | Transforming).&lt;&#x2F;p&gt;
+&lt;p&gt;First you can choose the directory and select the files you want to process.
+File selection is similar to the thumbnail preview
+(select multiple files using CTRL, hold SHIFT to select files consecutively or hit CTRL+A to select all files of a folder).
+You can additionally filter a subset using search terms or regular expressions
+(in the example below all files are chosen which start with a lower case character).
+After selecting the files to be processed you can click the &lt;em&gt;Icon Add Files to the File List&lt;&#x2F;em&gt;.
+If you open the &lt;em&gt;File List&lt;&#x2F;em&gt; Tab, you can also drop multiple folders to select their files for processing.
+Having selected the files to be processed, you can choose an output directory.
+The output panel allows you to choose the old filename or rename all processed files.
+The screenshot shows a file conversion where 87 files are converted to png.
+&lt;img src=&quot;batch-processing-005-annotated1.png&quot; alt=&quot;batch-processing-005-annotated1&quot; width=&quot;100%&quot;&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;copy-rename&quot;&gt;Copy&#x2F;Rename&lt;&#x2F;h2&gt;
+&lt;p&gt;The Output panel allows you to choose an output directory and rename&#x2F;convert files.
+You can choose a custom filename.
+Do not forget to add a sequence number such that the filenames are still unique.
+The filename preview picks a selected image and shows the old and the new filename accordingly.
+If input and output directory are the same, images will be renamed in place.
+Otherwise the images are copied and renamed. This action will not change the image encoding.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;the output panel&quot; src=&quot;batch-rename.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;the output panel&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h2 id=&quot;image-conversion&quot;&gt;Image Conversion&lt;&#x2F;h2&gt;
+&lt;p&gt;If you want to convert images to a specific output format (e.g. PNG) you can change the &lt;em&gt;Keep Extension&lt;&#x2F;em&gt; drop down to &lt;em&gt;Convert To&lt;&#x2F;em&gt;.
+Then select your preferred format.
+You can choose any format which is supported by nomacs.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;batch convert images&quot; src=&quot;batch-convert.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;batch convert images&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h2 id=&quot;resize-transform&quot;&gt;Resize&#x2F;Transform&lt;&#x2F;h2&gt;
+&lt;p&gt;Click the + next to &lt;em&gt;Resize&#x2F;Transform&lt;&#x2F;em&gt; to apply an image transform.
+If you e.g. want to downsample all images of a folder, you can choose &lt;em&gt;Long Side&lt;&#x2F;em&gt; in the resize panel.
+Then enter the desired side length in pixel.
+This option will resize the image such that the width of panorama images
+or the height of portrait images will be set to the desired pixel length.
+If you check &lt;em&gt;Shrink Only&lt;&#x2F;em&gt; images which have a lower long side than the desired length will not be resized.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;batch resize&quot; src=&quot;batch-processing-009.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;batch resize&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;The &lt;em&gt;Transform&lt;&#x2F;em&gt; panel allows you to rotate or flip all images.
+The gray text next to the panel title indicates if a panel is active or not.
+The example below shows a configuration which resizes all images by 50% and then rotates them by 180°.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;batch transform&quot; src=&quot;batch-processing-012.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;batch transform&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h2 id=&quot;processing&quot;&gt;Processing&lt;&#x2F;h2&gt;
+&lt;p&gt;After you configured the batch processing according to your needs you can hit OK.
+A progress bar will appear which indicates the percentage of images already processed.
+If you notice a wrong configuration, you can cancel the processing.
+All images processed will stay the same then but the processing is stopped immediately.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;processing images&quot; src=&quot;batch-processing-003.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;processing images&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;All processing actions are logged.
+Choose &lt;em&gt;Show Log&lt;&#x2F;em&gt; to see the status of the processing.
+You can see the status of every batch module and check if it was processed successfully.
+Please check the batch configuration before Processing especially
+if you check &lt;em&gt;Overwrite Existing&lt;&#x2F;em&gt; files since these actions cannot be reverted.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;log file&quot; src=&quot;batch-processing-014.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;log file&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Overview Panel (Zooming)</title>
+        <published>2015-03-16T17:15:48+01:00</published>
+        <updated>2015-03-16T17:15:48+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/overview-panel-zooming/"/>
+        <id>https://nomacs.org/blog/overview-panel-zooming/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/overview-panel-zooming/">&lt;p&gt;The Overview Panel (Menu &amp;gt; Panels &amp;gt; Overview) enhances zoom and pan.
+The blue rectangle shows the current viewing area.
+You can pan to a specific location by dragging this rectangle to the desired position.
+The scrollbar at the bottom allows you to zoom.
+If you want to zoom to a desired factor (e.g. 600 %) you can mark and replace the text accordingly.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;Overview Panel&quot; src=&quot;zooming-vw.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;Overview Panel&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>GSoC 2015</title>
+        <published>2015-03-03T10:10:25+01:00</published>
+        <updated>2015-03-03T10:10:25+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/gsoc-2015/"/>
+        <id>https://nomacs.org/blog/gsoc-2015/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/gsoc-2015/">&lt;p&gt;nomacs was not accepted for GSoC 2015.
+We would like to thank all students who were willing to contribute to nomacs.
+But don’t forget, it’s open source – so you are always welcome to contribute : )
+– the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 2.4.2</title>
+        <published>2015-03-02T14:53:38+01:00</published>
+        <updated>2015-03-02T14:53:38+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-2-4-2/"/>
+        <id>https://nomacs.org/blog/nomacs-2-4-2/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-2-4-2/">&lt;p&gt;fixes some major bugs of the 2.4.0 release. These fixes include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Image Manipulations are fixed now (black images on e.g. gamma)&lt;&#x2F;li&gt;
+&lt;li&gt;Resize with gamma correction (black images if gamma was checked)&lt;&#x2F;li&gt;
+&lt;li&gt;Crash fixed (if reload occurred after an image resize)&lt;&#x2F;li&gt;
+&lt;li&gt;Batch Processing fixed&lt;&#x2F;li&gt;
+&lt;li&gt;GIF movie toolbar fixed (thanks to &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;alyosama&quot;&gt;alyosama&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Translations updated (thanks to all translators)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;– the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 2.4.0</title>
+        <published>2015-02-25T17:32:19+01:00</published>
+        <updated>2015-02-25T17:32:19+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-2-4-0/"/>
+        <id>https://nomacs.org/blog/nomacs-2-4-0/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-2-4-0/">&lt;p&gt;the new 2.4.0 release is a milestone in our development.
+First, it will be the last feature release which mainly supports Qt 4 (again the numbers align perfectly: 2.4).
+Second, it is probably the hugest feature release ever.
+The most important features include tabs, an all-in-wonder batch processing, and an improved thumbnail preview.
+Good news for all Windows XP and Vista users (who should definitely update their system : ),
+we compiled &lt;a href=&quot;https:&#x2F;&#x2F;sourceforge.net&#x2F;projects&#x2F;nomacs&#x2F;files&#x2F;nomacs-2.4.0&#x2F;nomacs-setup-2.4.0-WinXP-x86.exe&#x2F;download&quot;&gt;nomacs&lt;&#x2F;a&gt;
+a last time for these systems.
+Here is the full changelog:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Batch processing (you can try it by clicking Tools &amp;gt; Batch Processing)&lt;&#x2F;li&gt;
+&lt;li&gt;Image tabs (open multiple images within different tabs)&lt;&#x2F;li&gt;
+&lt;li&gt;Thumbnail preview improved (copy&#x2F;paste delete&#x2F;rename is now supported)&lt;&#x2F;li&gt;
+&lt;li&gt;Zoom panel improved (you can now chose a specific zoom level)&lt;&#x2F;li&gt;
+&lt;li&gt;Olympus RAW added&lt;&#x2F;li&gt;
+&lt;li&gt;Convert to grayscale added (thanks to &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;shreelock&quot;&gt;shreelock&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Faster directory loading (especially if you have many images in a folder)&lt;&#x2F;li&gt;
+&lt;li&gt;Gesture improvements&lt;&#x2F;li&gt;
+&lt;li&gt;Saving of images from archives (e.g. zip, docx) is now supported&lt;&#x2F;li&gt;
+&lt;li&gt;File sorting improved (Unix-based systems only)&lt;&#x2F;li&gt;
+&lt;li&gt;Stability improvements&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;– the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>But which image format should I take?</title>
+        <published>2015-02-20T18:59:20+01:00</published>
+        <updated>2015-02-20T18:59:20+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/but-which-image-format-should-i-take/"/>
+        <id>https://nomacs.org/blog/but-which-image-format-should-i-take/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/but-which-image-format-should-i-take/">&lt;p&gt;Since we see a lot of people choosing the wrong image formats on a daily basis, we have created a short cheat sheet for you.
+Though JPEG is probably the easiest way to archive your pictures,
+there are several incentives to choose another image format depending on the image content or purpose.
+(You can also &lt;a href=&quot;https:&#x2F;&#x2F;nomacs.org&#x2F;blog&#x2F;but-which-image-format-should-i-take&#x2F;image-formats.pdf&quot;&gt;download&lt;&#x2F;a&gt; the cheat sheet)&lt;&#x2F;p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;Image formats for photos&quot; src=&quot;photograph.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;Image formats for photos&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;Image formats for illustrations&quot; src=&quot;illustration.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;Image formats for illustrations&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;– the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Welcome to the Image Lounge</title>
+        <published>2015-02-20T11:58:56+01:00</published>
+        <updated>2015-02-20T11:58:56+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/cocktail/"/>
+        <id>https://nomacs.org/blog/cocktail/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/cocktail/">&lt;img alt=&quot;copy-header.png&quot; src=&quot;copy-header.png&quot; width=&quot;100%&quot;&gt;
+&lt;p&gt;take a close look at your browser’s address bar : )
+– the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Windows 10</title>
+        <published>2015-02-03T15:12:59+01:00</published>
+        <updated>2015-02-03T15:12:59+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/windows-10/"/>
+        <id>https://nomacs.org/blog/windows-10/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/windows-10/">&lt;p&gt;We have tested nomacs on windows 10.
+Everything works out as expected,
+except that the &lt;em&gt;Frameless View&lt;&#x2F;em&gt; seems to be obsolete since Microsoft removed the window frames.
+— the nomacs team&lt;&#x2F;p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;nomacs running on windows 10&quot; src=&quot;win10-h.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;nomacs running on windows 10&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Want to Support nomacs?</title>
+        <published>2014-12-17T18:15:49+01:00</published>
+        <updated>2014-12-17T18:15:49+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/want-to-support-nomacs/"/>
+        <id>https://nomacs.org/blog/want-to-support-nomacs/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/want-to-support-nomacs/">&lt;p&gt;we would need your help for increasing the support of nomacs on different OS:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;OSX Build: in addition to Petr’s MacPort packages we would love to distribute dmgs of nomacs.&lt;&#x2F;li&gt;
+&lt;li&gt;Linux Plugins: we are seeking for someone who can help us with the packaging of plugins for Linux.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If you have experience in any of these fields and want to support us, you can leave a reply to this post or write us an e-mail (&lt;a href=&quot;mailto:developers@nomacs.org&quot;&gt;developers@nomacs.org&lt;&#x2F;a&gt;).
+– the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>How to create a Mosaic Image</title>
+        <published>2014-11-17T16:42:49+01:00</published>
+        <updated>2014-11-17T16:42:49+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/how-to-create-a-mosaic-image/"/>
+        <id>https://nomacs.org/blog/how-to-create-a-mosaic-image/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/how-to-create-a-mosaic-image/">&lt;p&gt;With nomacs you can easily cerate a Mosaic image.
+The tool (Tools &amp;gt; Mosaic Image) allows to create images that are composed of other images.
+For detailed instruction, see the screenshots below&lt;&#x2F;p&gt;
+&lt;img alt=&quot;mosaic&quot; src=&quot;mosaic.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+&lt;img alt=&quot;mosaic2&quot; src=&quot;mosaic2.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;mosaic3&quot; src=&quot;mosaic3.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;create a mosaic image&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;mosaic4&quot; src=&quot;mosaic4.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;mosaic image&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;img alt=&quot;nyc&quot; src=&quot;nyc.jpg&quot; width=&quot;100%&quot;&#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Synchronization</title>
+        <published>2014-11-17T16:33:35+01:00</published>
+        <updated>2014-11-17T16:33:35+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/synchronization/"/>
+        <id>https://nomacs.org/blog/synchronization/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/synchronization/">&lt;p&gt;With the synchronization it is possible that multiple viewers perform the same action (like panning, zooming, etc.).
+This feature is useful when comparing two images.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;synchronization-on-the-same-computer&quot;&gt;Synchronization on the same computer&lt;&#x2F;h2&gt;
+&lt;p&gt;For synchronization on the same computer at least two instances of nomacs have to run.
+Via the “Sync”-Menu it is possible to connect to all viewers
+or a specific viewer can be chosen by selecting the image title of this viewer.
+Additionally it is possible to connect two viewers by keeping the CTRL and ALT key pressed
+and drag from the image of one viewer to the other.
+For actions which should be performed on all connected instances the ALT key has to be kept pressed
+(e.g. hold the ALT key pressed and use the mouse wheel for zooming on all connected viewers).&lt;&#x2F;p&gt;
+&lt;p&gt;Possible actions which can be performed:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Panning ALT+mouse&lt;&#x2F;li&gt;
+&lt;li&gt;Zooming ALT+mouse&lt;&#x2F;li&gt;
+&lt;li&gt;load next&#x2F;previous File (ALT+right resp. ALT+left)&lt;&#x2F;li&gt;
+&lt;li&gt;synchronize zoom level and position in the image with CTRL+D&lt;&#x2F;li&gt;
+&lt;li&gt;overlay the two images and change the opacity of one image with CTRL+TAB&lt;&#x2F;li&gt;
+&lt;li&gt;arrange synchronized viewers with CTRL+SHIFT+TAB&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;synchronization-in-the-local-network-lan&quot;&gt;Synchronization in the local network (LAN)&lt;&#x2F;h2&gt;
+&lt;p&gt;First you have to enable “network sync” in the network preferences of nomacs on all computers you want to use.
+To synchronize viewers via the local network one nomacs has to start the server using the menu.
+The viewer on the other computer can then connect to the server.
+Additional to the actions on the same computer (see above) images can also be sent over the network by pressing ALT+I
+(or using the menu:  Sync -&amp;gt; Send Image).&lt;&#x2F;p&gt;
+&lt;p&gt;In the settings dialog actions can be forbidden for all clients (see Settings-Network).
+So you can forbid a client e.g. to zoom into your image and&#x2F;or to send you new images.&lt;&#x2F;p&gt;
+&lt;p&gt;Note: If a server connects to another server in the network,
+all clients of this server disconnect and establish a new connection to the target server.
+Also the server of the current viewer is stopped.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Image Notes</title>
+        <published>2014-11-13T21:16:56+01:00</published>
+        <updated>2014-11-13T21:16:56+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/image-notes/"/>
+        <id>https://nomacs.org/blog/image-notes/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/image-notes/">&lt;figure&gt;
+  &lt;img alt=&quot;image notes&quot; src=&quot;uluwatu-nomacs-note.png&quot; width=&quot;80%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;image notes&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;We have recently added a new feature called image notes.
+A transparent widget appears in the bottom left corner if you click &lt;strong&gt;Panels &amp;gt; Image Notes&lt;&#x2F;strong&gt;
+which displays text stored in the image metadata (Exif.Image.ImageDescription).
+Thus, other software such as Photoshop can read these notes.
+To add or edit notes, simply click into the widget and start typing.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Touch &amp; Gesture Support</title>
+        <published>2014-11-12T22:45:54+01:00</published>
+        <updated>2014-11-12T22:45:54+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/touch-gesture-support/"/>
+        <id>https://nomacs.org/blog/touch-gesture-support/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/touch-gesture-support/">&lt;p&gt;The touch support was extended in nomacs 2.2.
+The illustration below shows the most important gestures.
+Horizontal swipes move to the previous&#x2F;next image if the image fits into the window (otherwise, these gestures are used for panning).
+Swiping down from the top opens the thumbnail panel while an upward swipe from the bottom displays the metadata.
+Plus you can zoom using pinch gestures.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;mouse and touch gestures&quot; src=&quot;nomacs-gestures.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+  &lt;figcaption&gt;&lt;em&gt;mouse and touch gestures&lt;&#x2F;em&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Nomacs &amp; Archives</title>
+        <published>2014-11-11T14:38:22+01:00</published>
+        <updated>2014-11-11T14:38:22+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-archives/"/>
+        <id>https://nomacs.org/blog/nomacs-archives/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-archives/">&lt;p&gt;nomacs supports zipped archives since version 2.2.
+Hence you can simply drop a zip archive to nomacs and then browse all images in the archive.
+Fair enough, but the really cool feature,
+is that you can browse through all images of Microsoft Office documents by simply dropping the files to nomacs.
+In addition, we have added a tool (Tools &amp;gt; Extract From Archive) which allows to extract all images from Archives to a folder.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;browsing-zip-archives-with-nomacs&quot;&gt;Browsing ZIP Archives with nomacs&lt;&#x2F;h2&gt;
+&lt;img alt=&quot;Browsing ZIP Archives with nomacs&quot; src=&quot;img-2014-11-11-14.19.13.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+&lt;h2 id=&quot;browsing-images-in-a-microsoft-excel-file&quot;&gt;Browsing images in a Microsoft Excel file&lt;&#x2F;h2&gt;
+&lt;img alt=&quot;Browsing images in a Microsoft Excel file&quot; src=&quot;img-2014-11-11-14.20.00.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+&lt;h2 id=&quot;extracting-all-images-from-an-archive&quot;&gt;Extracting all images from an Archive&lt;&#x2F;h2&gt;
+&lt;img alt=&quot;Extracting all images from an Archive&quot; src=&quot;img-2014-11-11-14.27.56.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+&lt;h2 id=&quot;dialog-for-extracting-all-images-from-an-archive&quot;&gt;Dialog for extracting all images from an Archive&lt;&#x2F;h2&gt;
+&lt;img alt=&quot;Dialog for extracting all images from an Archive&quot; src=&quot;img-2014-11-11-14.28.31.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 2.2</title>
+        <published>2014-11-11T14:12:07+01:00</published>
+        <updated>2014-11-11T14:12:07+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-2-2/"/>
+        <id>https://nomacs.org/blog/nomacs-2-2/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-2-2/">&lt;p&gt;you know we like numbers… so we release nomacs 2.2 on 11.11.
+This version fixes a few issues you reported and adds cool features such as reading images from zip
+(docx, xlsx, pptx) archives, or a full metadata panel.
+The full changelog is:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reading images from ZIP (+ Office Documents e.g. docx, xlsx, pptx)&lt;&#x2F;li&gt;
+&lt;li&gt;Metadata panel (displays all metadata of an image)&lt;&#x2F;li&gt;
+&lt;li&gt;Thumbnail panel layout (Vertical or Undock)&lt;&#x2F;li&gt;
+&lt;li&gt;Notes (you can now take and display notes which are written to the image metadata)&lt;&#x2F;li&gt;
+&lt;li&gt;Private mode which does not save any settings including recent files&lt;&#x2F;li&gt;
+&lt;li&gt;Option which disables check for updates&lt;&#x2F;li&gt;
+&lt;li&gt;Option which disables logging of recent files&#x2F;folders&lt;&#x2F;li&gt;
+&lt;li&gt;Additional RAW files added (including Pentax [PEF], Samsung [SRW], Hasselblad [3FR] and Sigma [X3F])&lt;&#x2F;li&gt;
+&lt;li&gt;JPG2000 read&#x2F;write fixed for large files (windows with setup only)&lt;&#x2F;li&gt;
+&lt;li&gt;Resize dialog fixes&lt;&#x2F;li&gt;
+&lt;li&gt;File order fixed for Linux&#x2F;Unix&lt;&#x2F;li&gt;
+&lt;li&gt;Segfault fixed if ‘fast thumbnail preview’ is checked&lt;&#x2F;li&gt;
+&lt;li&gt;Saving images without extension (linux only) fixed&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Adding new file formats</title>
+        <published>2014-10-01T09:15:02+02:00</published>
+        <updated>2014-10-01T09:15:02+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/adding-new-file-formats/"/>
+        <id>https://nomacs.org/blog/adding-new-file-formats/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/adding-new-file-formats/">&lt;p&gt;Since the last release we are getting more and more requests if we can support different file formats.
+Apparently it turned out, that we already support most of them but we have not added the file extension to our file filter.
+This is especially true for RAW formats of image files,
+we just simple don’t know all extensions of all manufacturers and we don’t have sample images from all of them for testing.&lt;&#x2F;p&gt;
+&lt;p&gt;But there is a simple solution: you can easily try to add new files formats to nomacs.
+You just have to use File -&amp;gt; Add Image Format
+– this opens a dialog where you can drop (or load) your images and nomacs will tell you if the file extension is supported.
+If it is supported it will display the image.
+After adding the file format you can use our File Filter settings in the preferences dialog
+to set nomacs as default viewer for these images.
+If you have successfully added a new file format,
+please drop us a note in our bug tracker and we will add the extension to nomacs.
+If nomacs is unable to load you file format, please add a new feature request.
+If possible attach also the image to the request so we can test it easily.&lt;&#x2F;p&gt;
+&lt;p&gt;Open the “Add Image Format” Dialog&lt;&#x2F;p&gt;
+&lt;img alt=&quot;Open the “Add Image Format” Dialog&quot; src=&quot;add-file-format.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+&lt;p&gt;and drop or load your image&lt;&#x2F;p&gt;
+&lt;img alt=&quot;and drop or load your image&quot; src=&quot;add-file-format2.png&quot; width=&quot;100%&quot;&#x2F;&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Meta Data Support</title>
+        <published>2014-08-24T19:52:16+02:00</published>
+        <updated>2014-08-24T19:52:16+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/meta-data-support/"/>
+        <id>https://nomacs.org/blog/meta-data-support/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/meta-data-support/">&lt;img alt=&quot;img-2014-08-24 19.37.49&quot; src=&quot;img-2014-08-24-19.37.49.png&quot; width=&quot;100%&quot;&gt;
+&lt;p&gt;We have added a panel which allows you to view all meta data which is present in an image.
+In addition to typical exif&#x2F;XMP meta data, the file info like owner&#x2F;group of an image and its thumbnail are displayed in this panel.&lt;&#x2F;p&gt;
+&lt;p&gt;Tim Jerman added a support for zip archives (besides some awesome plugins) within the
+&lt;a href=&quot;https:&#x2F;&#x2F;www.google-melange.com&#x2F;archive&#x2F;gsoc&#x2F;2014&quot;&gt;Google Summer of Code 2014&lt;&#x2F;a&gt;.
+This feature will allow you to browse images in zip archives without extracting them first.
+That’s nice so far… the really cool thing is that you can additionally browse through images in Microsoft Office Documents such as Word, PowerPoint.
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>2.0.2 supports .vec file</title>
+        <published>2014-07-31T15:10:05+02:00</published>
+        <updated>2014-07-31T15:10:05+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/2-0-2-supports-vec-file/"/>
+        <id>https://nomacs.org/blog/2-0-2-supports-vec-file/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/2-0-2-supports-vec-file/">&lt;p&gt;In 2.0.2 (we just noticed that we are now the half of not found :)
+a new feature was introduced which is very useful for us
+and we think it may be useful for those of you who also work in the computer vision field.
+We are now able to load the .vec file of the OpenCV Cascade Classifier.
+So you can easily control if the patches you trained,
+or the patches &lt;a href=&quot;https:&#x2F;&#x2F;opencv.org&#x2F;&quot;&gt;OpenCV&lt;&#x2F;a&gt; created automatically are correct.
+Of course we have not added the .vec extension to the default settings of nomacs, because there exists a lot of other vec files.
+Thus, you have to add the extension to nomacs manually.
+You can do this by opening the “File” -&amp;gt; “Add Image Format”  dialog.
+Then you can drag&amp;amp;drop your file into the dialog or use the browse to the file.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;nomacs.org&#x2F;blog&#x2F;2-0-2-supports-vec-file&#x2F;add-formats.png&quot; alt=&quot;add-formats&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;After clicking add you have to name the new file format.
+After that you can open your .vec files with nomacs.&lt;&#x2F;p&gt;
+&lt;img alt=&quot;img-2014-07-31 09.22.22&quot; src=&quot;img-2014-07-31-09.22.22.png&quot; width=&quot;100%&quot;&gt;
+&lt;p&gt;Due to some limitations of the fileformat nomacs assumes that the patches are square
+and thus if you open a file containing non-square nomacs is unable to load it.
+If you want to use non-square patches you have to specify the size in the file name.
+You can do this by adding “-w[width]-h[height]”.
+So for example you have to name your file “samples-w35-h25.vec”.
+Have fun with this feature and may it simplify your training step
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fixes for 2.0</title>
+        <published>2014-07-30T18:45:45+02:00</published>
+        <updated>2014-07-30T18:45:45+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/fixes-for-2-0/"/>
+        <id>https://nomacs.org/blog/fixes-for-2-0/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/fixes-for-2-0/">&lt;p&gt;first of all we want to thank those users who provided feedback for the shiny new 2.0 version of nomacs.
+at the same time, the feedback kept us busy with fixing known issues.
+the 2.0.2 release fixes particularly these issues:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;portable version always keeps settings (settings are not written to the registry anymore)&lt;&#x2F;li&gt;
+&lt;li&gt;plugin download for nomacs portable&lt;&#x2F;li&gt;
+&lt;li&gt;AppData is not written to home directory (sorry for that, you can delete this folder without any side effects)&lt;&#x2F;li&gt;
+&lt;li&gt;layout fixes in recent folders&#x2F;files&lt;&#x2F;li&gt;
+&lt;li&gt;translation updates fixed&lt;&#x2F;li&gt;
+&lt;li&gt;thumbnail saving fixed&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;– the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>2.0</title>
+        <published>2014-07-22T13:52:16+02:00</published>
+        <updated>2014-07-22T13:52:16+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/2-0/"/>
+        <id>https://nomacs.org/blog/2-0/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/2-0/">&lt;p&gt;although nomacs is not updated as frequently as chrome&#x2F;firefox,
+we have managed to release our second version which ships with 5 handy plugins&lt;&#x2F;p&gt;
+&lt;p&gt;new features include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;nomacs now supports &lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20210924235146&#x2F;https:&#x2F;&#x2F;www.nomacs.org&#x2F;plugins&#x2F;&quot;&gt;plugins&lt;&#x2F;a&gt;
+(windows only for now)&lt;&#x2F;li&gt;
+&lt;li&gt;Recent Files&#x2F;Folders on start-up&lt;&#x2F;li&gt;
+&lt;li&gt;Threaded file loading&#x2F;saving&lt;&#x2F;li&gt;
+&lt;li&gt;UPnP support that allows for detecting nomacs in WLAN networks&lt;&#x2F;li&gt;
+&lt;li&gt;Remote control via WLAN&#x2F;LAN&lt;&#x2F;li&gt;
+&lt;li&gt;Fading for fullscreen&#x2F;slideshow&lt;&#x2F;li&gt;
+&lt;li&gt;Option for syncing all actions&lt;&#x2F;li&gt;
+&lt;li&gt;Auto file updating (without locks)&lt;&#x2F;li&gt;
+&lt;li&gt;Full exif support on linux (fixes issue #192)&lt;&#x2F;li&gt;
+&lt;li&gt;White list to automatically connect with your computers&lt;&#x2F;li&gt;
+&lt;li&gt;Gamma correction on down sampling (fixes #322)&lt;&#x2F;li&gt;
+&lt;li&gt;New (improved) cacher&lt;&#x2F;li&gt;
+&lt;li&gt;Improvements in the Thumbnail Preview&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 2.0 beta</title>
+        <published>2014-04-01T16:02:13+02:00</published>
+        <updated>2014-04-01T16:02:13+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-2-0-beta/"/>
+        <id>https://nomacs.org/blog/nomacs-2-0-beta/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-2-0-beta/">&lt;p&gt;since we have changed a lot of code in the loading and saving routines,
+we decided to release a beta version prior to the first 2.0 release.
+if you find any bugs, please let us know.
+new features of this beta are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Threaded file loading&#x2F;saving&lt;&#x2F;li&gt;
+&lt;li&gt;UPnP support that allows for detecting nomacs in WLAN networks&lt;&#x2F;li&gt;
+&lt;li&gt;Option for syncing all actions&lt;&#x2F;li&gt;
+&lt;li&gt;Auto file updating (without locks)&lt;&#x2F;li&gt;
+&lt;li&gt;Full exif support on linux (fixes issue #192)&lt;&#x2F;li&gt;
+&lt;li&gt;White list to automatically connect with your computers&lt;&#x2F;li&gt;
+&lt;li&gt;Gamma correction on down sampling (fixes #322)&lt;&#x2F;li&gt;
+&lt;li&gt;New (improved) cacher&lt;&#x2F;li&gt;
+&lt;li&gt;Improvements in the Thumbnail Preview&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;you can download and test the beta here.&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 2 – announcement</title>
+        <published>2014-03-14T18:07:20+01:00</published>
+        <updated>2014-03-14T18:07:20+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-2-announcement/"/>
+        <id>https://nomacs.org/blog/nomacs-2-announcement/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-2-announcement/">&lt;p&gt;we are currently working on nomacs 2.0.
+please let us know if you are missing any important feature.
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs @ GSoC 2014</title>
+        <published>2014-03-05T10:02:09+01:00</published>
+        <updated>2014-03-05T10:02:09+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-gsoc-2014/"/>
+        <id>https://nomacs.org/blog/nomacs-gsoc-2014/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-gsoc-2014/">&lt;img alt=&quot;gsoc-header&quot; src=&quot;gsoc-header.jpg&quot; width=&quot;100%&quot;&gt;
+&lt;p&gt;the CSE at Vienna UT has been accepted at GSoC.
+Hence, if you are a student and you enjoy C++ coding more than a beach in summer,
+you are welcome to apply for &lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20210727113403&#x2F;https:&#x2F;&#x2F;nomacs.org&#x2F;google-summer-of-code-2014&#x2F;&quot;&gt;nomacs at GSoC&lt;&#x2F;a&gt;.
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 1.6.4</title>
+        <published>2014-02-20T11:56:04+01:00</published>
+        <updated>2014-02-20T11:56:04+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-1-6-4/"/>
+        <id>https://nomacs.org/blog/nomacs-1-6-4/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-1-6-4/">&lt;p&gt;so the news are always the same on this page – again we have updated nomacs.
+this version contains a few new features:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto Adjustment&#x2F;Auto Normalization&#x2F;Invert Image functions added&lt;&#x2F;li&gt;
+&lt;li&gt;Flip (Horizontally&#x2F;Vertically) functions added&lt;&#x2F;li&gt;
+&lt;li&gt;Recursive Folder Scan&lt;&#x2F;li&gt;
+&lt;li&gt;Fast(er) RAW loading with embedded thumbnail extraction&lt;&#x2F;li&gt;
+&lt;li&gt;save for web dialog – that allows for easy resizing and saving&lt;&#x2F;li&gt;
+&lt;li&gt;the window position is remembered even if the window was snapped previously&lt;&#x2F;li&gt;
+&lt;li&gt;a Run button is added to the new Open With dialog – hence it is similar to the old one&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;we hope you enjoy this version — even more — than the old nomacs versions
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Critical Bugfix</title>
+        <published>2014-01-15T19:49:49+01:00</published>
+        <updated>2014-01-15T19:49:49+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/critical-bugfix/"/>
+        <id>https://nomacs.org/blog/critical-bugfix/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/critical-bugfix/">&lt;p&gt;we have found a critical bug which – in some cases – prevents nomacs from starting correctly.
+If you experience this issue, we would recommend to update nomacs to version 1.6.3.
+ The issue applies only to the Windows versions.
+Users of other OS can safely enjoy version 1.6.2.
+Sorry for any inconveniences caused.
+For the Matlab users who do not enjoy the default image display behavior of Matlab:
+this script allows you to directly display images in nomacs.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;matlab&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-matlab &quot;&gt;&lt;code class=&quot;language-matlab&quot; data-lang=&quot;matlab&quot;&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;function &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;nomacs&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;img&lt;&#x2F;span&gt;&lt;span&gt;, &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% nomacs(img, varargin)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% 
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% nomacs displays the image img in nomacs
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% INPUT:
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%   img         the image to display
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% 
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%   normalize   displays the image in the range between [val1 val2]. If the
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%               parameter is set to [] the image is normalized between
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%               min(img(:)) and max(img(:)). Note: It is possible to pass
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%               the following parameter struct as a second parameter, if
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%               normalization should not be performed.
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%   
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%   tempFolder  the folder where the image is saved temporary (it is
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%               deleted afterwards
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%   exePath     specify the exePath if it is not in Program Files (x86)
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if &lt;&#x2F;span&gt;&lt;span&gt;isempty(img)
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;return&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;elseif size&lt;&#x2F;span&gt;&lt;span&gt;(img,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;4&lt;&#x2F;span&gt;&lt;span&gt;) &amp;gt; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;4
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;warning&lt;&#x2F;span&gt;&lt;span&gt;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;NOMACS:falseImg&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;, [&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;The number of channels must not be &lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;...
+&lt;&#x2F;span&gt;&lt;span&gt;        &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;greater than four.&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;]);
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;return&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;p = parse_inputs(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;{:});
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% check if nomacs is up &amp;amp; running
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if&lt;&#x2F;span&gt;&lt;span&gt; ~&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;exist&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;strrep&lt;&#x2F;span&gt;&lt;span&gt;(p.exePath, &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;, &amp;#39;&amp;#39;), &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;file&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;)
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;display&lt;&#x2F;span&gt;&lt;span&gt;( p.exePath);
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;error&lt;&#x2F;span&gt;&lt;span&gt;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;NOMACS:notFound&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;, [&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;Sorry, I could not locate nomacs.exe &lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;\n&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;...
+&lt;&#x2F;span&gt;&lt;span&gt;        &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;Please specify the correct exePath.&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;]);
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if &lt;&#x2F;span&gt;&lt;span&gt;isfield(p, &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;normalize&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;)
+&lt;&#x2F;span&gt;&lt;span&gt;    
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if &lt;&#x2F;span&gt;&lt;span&gt;isempty(p.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;normalize&lt;&#x2F;span&gt;&lt;span&gt;)
+&lt;&#x2F;span&gt;&lt;span&gt;        
+&lt;&#x2F;span&gt;&lt;span&gt;        img = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;im2double&lt;&#x2F;span&gt;&lt;span&gt;(img);
+&lt;&#x2F;span&gt;&lt;span&gt;        img = img-&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;min&lt;&#x2F;span&gt;&lt;span&gt;(img(:));
+&lt;&#x2F;span&gt;&lt;span&gt;        img = img.&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;max&lt;&#x2F;span&gt;&lt;span&gt;(img(:));
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;elseif length&lt;&#x2F;span&gt;&lt;span&gt;(p.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;normalize&lt;&#x2F;span&gt;&lt;span&gt;) == &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;2
+&lt;&#x2F;span&gt;&lt;span&gt;        n = p.normalize;
+&lt;&#x2F;span&gt;&lt;span&gt;        img = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;double&lt;&#x2F;span&gt;&lt;span&gt;(img);
+&lt;&#x2F;span&gt;&lt;span&gt;        img = img-n(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;);
+&lt;&#x2F;span&gt;&lt;span&gt;        img = img.&#x2F;(n(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span&gt;) - n(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;));        
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;imwrite&lt;&#x2F;span&gt;&lt;span&gt;(img, p.tempFolder);
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if&lt;&#x2F;span&gt;&lt;span&gt; ~isunix
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;system&lt;&#x2F;span&gt;&lt;span&gt;([p.exePath &amp;#39; &amp;#39; p.tempFolder &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt; &amp;amp;&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;]);
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;else
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;unix&lt;&#x2F;span&gt;&lt;span&gt;([p.exePath &amp;#39; &amp;#39; p.tempFolder &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt; &amp;amp;&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;]);
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;delete&lt;&#x2F;span&gt;&lt;span&gt;(p.tempFolder);
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%-------------------------------------------------------------------------
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%   Subfunction: Parse Inputs
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%-------------------------------------------------------------------------
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;function &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;params &lt;&#x2F;span&gt;&lt;span&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;parse_inputs&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;)
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% called with normaliztion only
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;nargin&lt;&#x2F;span&gt;&lt;span&gt; == &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt; &amp;amp;&amp;amp; isfloat(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;})
+&lt;&#x2F;span&gt;&lt;span&gt;    params.normalize = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;}; 
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% second param is the struct
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;elseif &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;nargin&lt;&#x2F;span&gt;&lt;span&gt; == &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt; &amp;amp;&amp;amp; isstruct(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;})
+&lt;&#x2F;span&gt;&lt;span&gt;    params = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;};
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% three parameters (img, [], p)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;elseif &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;nargin&lt;&#x2F;span&gt;&lt;span&gt; == &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span&gt; &amp;amp;&amp;amp; isfloat(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;}) &amp;amp;&amp;amp; isstruct(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span&gt;})
+&lt;&#x2F;span&gt;&lt;span&gt;    params = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span&gt;};
+&lt;&#x2F;span&gt;&lt;span&gt;    params.normalize = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;varargin&lt;&#x2F;span&gt;&lt;span&gt;{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;};
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% no params
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;elseif &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;nargin&lt;&#x2F;span&gt;&lt;span&gt; == &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;0
+&lt;&#x2F;span&gt;&lt;span&gt;    params = [];
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;else
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;warning&lt;&#x2F;span&gt;&lt;span&gt;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;NOMACS:paramFalse&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;, [&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;The input parameters do not&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;...
+&lt;&#x2F;span&gt;&lt;span&gt;        &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt; conform to the required schema. Using default parameters&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;...
+&lt;&#x2F;span&gt;&lt;span&gt;        &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt; instead.&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;]);
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if&lt;&#x2F;span&gt;&lt;span&gt; ~isunix
+&lt;&#x2F;span&gt;&lt;span&gt;    
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;try
+&lt;&#x2F;span&gt;&lt;span&gt;        exename = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;winqueryreg&lt;&#x2F;span&gt;&lt;span&gt;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;HKEY_LOCAL_MACHINE&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;, &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;\n&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;omacs.exe&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;);
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;catch
+&lt;&#x2F;span&gt;&lt;span&gt;        exename = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;fullfile&lt;&#x2F;span&gt;&lt;span&gt;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;C:&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;, &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;Program Files (x86)&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;,&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;nomacs&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;, &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;nomacs.exe&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;);
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;span&gt;    imgname = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;fullfile&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;tempdir&lt;&#x2F;span&gt;&lt;span&gt;, &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;matlab-nomacs.tif&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;);
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;else
+&lt;&#x2F;span&gt;&lt;span&gt;    exename = &amp;#39;&amp;#39;;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% TODO
+&lt;&#x2F;span&gt;&lt;span&gt;    imgname = &amp;#39;&amp;#39;;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% TODO
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% define vars
+&lt;&#x2F;span&gt;&lt;span&gt;default_params.exePath          = [&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39; exename &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39;];
+&lt;&#x2F;span&gt;&lt;span&gt;default_params.tempFolder       = imgname;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;params = merge_structs(params, default_params);
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%-------------------------------------------------------------------------
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%   Subfunction: Merge Structs
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%-------------------------------------------------------------------------
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;function &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;struct2 &lt;&#x2F;span&gt;&lt;span&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;merge_structs&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;struct1&lt;&#x2F;span&gt;&lt;span&gt;, &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;struct2&lt;&#x2F;span&gt;&lt;span&gt;)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;% function new_struct = merge_structs(struct1, struct2)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%   Merges both STRUCTs.
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%   All values where both structs have the same fieldnames are taken from
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;%   STRUCT1. The NEW_STRUCT contains the fields of both STRUCTS.
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if &lt;&#x2F;span&gt;&lt;span&gt;isempty(struct1)
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;return&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;names = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;fieldnames&lt;&#x2F;span&gt;&lt;span&gt;(struct1);
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;for &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;i&lt;&#x2F;span&gt;&lt;span&gt; = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;:&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;length&lt;&#x2F;span&gt;&lt;span&gt;(names)
+&lt;&#x2F;span&gt;&lt;span&gt;    struct2.(names{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;i&lt;&#x2F;span&gt;&lt;span&gt;}) = struct1.(names{&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;i&lt;&#x2F;span&gt;&lt;span&gt;});
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 1.6.2</title>
+        <published>2013-12-20T16:10:53+01:00</published>
+        <updated>2013-12-20T16:10:53+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-1-6-2/"/>
+        <id>https://nomacs.org/blog/nomacs-1-6-2/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-1-6-2/">&lt;p&gt;the new nomacs is like the man in that video.&lt;&#x2F;p&gt;
+&lt;p&gt;this is probably one of the last nomacs for &lt;a href=&quot;https:&#x2F;&#x2F;support.microsoft.com&#x2F;help&#x2F;14223&quot;&gt;Windows XP&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;the new version fixes issues mostly concerning the new thumbnail bar but also adds a new open with behavior and a random sort order.&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 1.6.0</title>
+        <published>2013-10-15T15:51:47+02:00</published>
+        <updated>2013-10-15T15:51:47+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-1-6-0/"/>
+        <id>https://nomacs.org/blog/nomacs-1-6-0/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-1-6-0/">&lt;p&gt;sunny day in Vienna…&lt;&#x2F;p&gt;
+&lt;p&gt;This is perfectly not related to the the release of nomacs 1.6.&lt;&#x2F;p&gt;
+&lt;p&gt;New features are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Grid View for Thumbnails&lt;&#x2F;li&gt;
+&lt;li&gt;Image Mosaicing Tool&lt;&#x2F;li&gt;
+&lt;li&gt;Gif Player (Pause Animated Images and View Frame by Frame)&lt;&#x2F;li&gt;
+&lt;li&gt;WebP on all platforms&lt;&#x2F;li&gt;
+&lt;li&gt;Customizable Mouse Wheel&lt;&#x2F;li&gt;
+&lt;li&gt;French Translation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;… and we fixed all bugs reported (except for 5 bugs).&lt;&#x2F;p&gt;
+&lt;img alt=&quot;thumb preview small&quot; src=&quot;thumbs-small.png&quot; width=&quot;100%&quot;&gt;
+&lt;img alt=&quot;thumb preview large&quot; src=&quot;thumbs-large.png&quot; width=&quot;100%&quot;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>blackout</title>
+        <published>2013-09-02T15:53:34+02:00</published>
+        <updated>2013-09-02T15:53:34+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/blackout/"/>
+        <id>https://nomacs.org/blog/blackout/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/blackout/">&lt;p&gt;nomacs was down for the last two days – sorry&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>features, features, features</title>
+        <published>2013-07-11T16:07:13+02:00</published>
+        <updated>2013-07-11T16:07:13+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/features-features-features/"/>
+        <id>https://nomacs.org/blog/features-features-features/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/features-features-features/">&lt;p&gt;since there were &lt;del&gt;(hardly any)&lt;&#x2F;del&gt; no bugs in the last release we focused on new features and skipped again at least one bug fix release.
+the highly praised features include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi Page TIFF support – with export &amp;amp; convert to multiple files option&lt;&#x2F;li&gt;
+&lt;li&gt;Explorer Panel – for navigation&lt;&#x2F;li&gt;
+&lt;li&gt;Crop Toolbar – additional options for cropping&lt;&#x2F;li&gt;
+&lt;li&gt;Sort Images – by date modified&#x2F;created&lt;&#x2F;li&gt;
+&lt;li&gt;…and some small features requested by you&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Ask Toolbar</title>
+        <published>2013-07-11T13:58:00+02:00</published>
+        <updated>2013-07-11T13:58:00+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/ask-toolbar/"/>
+        <id>https://nomacs.org/blog/ask-toolbar/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/ask-toolbar/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;nomacs.org&#x2F;blog&#x2F;ask-toolbar&#x2F;ask.jpg&quot; alt=&quot;ask&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Shall we add Ask Toolbar to nomacs installer?&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Yes, please.&lt;&#x2F;li&gt;
+&lt;li&gt;No thanks, I have Java installed&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>new release</title>
+        <published>2013-06-12T18:24:08+02:00</published>
+        <updated>2013-06-12T18:24:08+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/new-release/"/>
+        <id>https://nomacs.org/blog/new-release/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/new-release/">&lt;img alt=&quot;bug-free&quot; src=&quot;bug-free.jpg&quot; width=&quot;100%&quot;&gt;
+&lt;p&gt;we have improved and extended the pretty stable nomacs 1.0.2 version.
+If we are not as bug free as we claim to be, please send us reports.
+New features include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Customizable Shortcuts&lt;&#x2F;li&gt;
+&lt;li&gt;Folder Preview – Color Encoded Folder Scrollbar&lt;&#x2F;li&gt;
+&lt;li&gt;New Image Formats – WebP, PSD, TGA, (JPEG2000 not WinXP)&lt;&#x2F;li&gt;
+&lt;li&gt;Add New Image Formats&lt;&#x2F;li&gt;
+&lt;li&gt;Support Additional Mouse Keys&lt;&#x2F;li&gt;
+&lt;li&gt;Ignore Raw Images if JPG is Present&lt;&#x2F;li&gt;
+&lt;li&gt;New Translations – Italian, Slovene, Czech, Serbian, Portuguese (thanks to all translators)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;and of course we fixed all bugs that we were able to and seemed to be important.&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>GSoC 2013</title>
+        <published>2013-04-15T11:56:00+02:00</published>
+        <updated>2013-04-15T11:56:00+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/gsoc-2013/"/>
+        <id>https://nomacs.org/blog/gsoc-2013/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/gsoc-2013/">&lt;p&gt;the &lt;a href=&quot;https:&#x2F;&#x2F;www.iue.tuwien.ac.at&#x2F;cse&#x2F;index.php&#x2F;gsoc&#x2F;2013.html&quot;&gt;Computational Science and Enigneering at Vienna UT&lt;&#x2F;a&gt;
+(including nomacs) has been accepted for &lt;a href=&quot;https:&#x2F;&#x2F;www.google-melange.com&#x2F;gsoc&#x2F;homepage&#x2F;google&#x2F;gsoc2013&quot;&gt;Google Summer of Code 2013&lt;&#x2F;a&gt;.
+So if you are interested in improving nomacs, this is the only chance to earn money at the same time.
+If you want to apply for the nomacs project @ GSoC2013 you should subscribe to our mailing list (&lt;a href=&quot;mailto:soc2013@iue.tuwien.ac.at&quot;&gt;soc2013@iue.tuwien.ac.at&lt;&#x2F;a&gt;).&lt;&#x2F;p&gt;
+&lt;p&gt;Do you have any questions concerning the
+&lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20210617214230&#x2F;http:&#x2F;&#x2F;nomacs.org&#x2F;google-summer-of-code-2013&#x2F;&quot;&gt;ideas&lt;&#x2F;a&gt; or
+the &lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20210617214230&#x2F;http:&#x2F;&#x2F;nomacs.org&#x2F;google-summer-of-code-2013&#x2F;&quot;&gt;puzzle&lt;&#x2F;a&gt;?
+Please do not hesitate to contact us via this mailing list (or IRC #TU_CSE_SoC @ irc.freenode.net).&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 1.0.2</title>
+        <published>2013-04-05T11:30:54+02:00</published>
+        <updated>2013-04-05T11:30:54+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-1-0-2/"/>
+        <id>https://nomacs.org/blog/nomacs-1-0-2/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-1-0-2/">&lt;p&gt;about 40 years &lt;sub&gt;and 2 days&lt;&#x2F;sub&gt; after Martin Cooper (&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;MartyMobile&quot;&gt;@MartyMobile&lt;&#x2F;a&gt;)
+did the first mobile telephone call,
+the first bugfix-only nomacs is released.
+the bugfixes include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support for DNG format&lt;&#x2F;li&gt;
+&lt;li&gt;Zoom&#x2F;Pan is faster for Mac OS&lt;&#x2F;li&gt;
+&lt;li&gt;EXIF data can be read for UTF-8 files (Windows only)&lt;&#x2F;li&gt;
+&lt;li&gt;Open With starts custom executables again&lt;&#x2F;li&gt;
+&lt;li&gt;Drag&amp;amp;Drop works directly after installing (no administrator privilegs)&lt;&#x2F;li&gt;
+&lt;li&gt;dpi is now saved when changing it in the resize dialog&lt;&#x2F;li&gt;
+&lt;li&gt;resize dialog does not crash for 40k x 30k images&lt;&#x2F;li&gt;
+&lt;li&gt;translations updated &amp;amp; serbian translation added&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;note&quot;&gt;NOTE&lt;&#x2F;h2&gt;
+&lt;p&gt;for the automatic update routine will download the wrong version for Windows XP
+(this is already fixed in the 1.0.2 version – so it is the last time you need to manually install nomacs : )&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Google Summer of Code 2013</title>
+        <published>2013-03-15T14:50:46+01:00</published>
+        <updated>2013-03-15T14:50:46+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/google-summer-of-code-2013/"/>
+        <id>https://nomacs.org/blog/google-summer-of-code-2013/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/google-summer-of-code-2013/">&lt;img alt=&quot;gsoc13&quot; src=&quot;gsoc13.jpg&quot; width=&quot;100%&quot;&gt;
+&lt;p&gt;we are again applying for Google Summer of Code together with the
+&lt;a href=&quot;http:&#x2F;&#x2F;www.iue.tuwien.ac.at&#x2F;cse&#x2F;index.php&#x2F;gsoc&#x2F;2013.html&quot;&gt;Computational Science and Engineering at Vienna UT&lt;&#x2F;a&gt;.
+If you are a student and want to earn money while supporting nomacs, you can check out our &lt;a href=&quot;&#x2F;blog&#x2F;gsoc-2013&quot;&gt;Ideas Page&lt;&#x2F;a&gt;.
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Why webP</title>
+        <published>2013-03-01T16:27:43+01:00</published>
+        <updated>2013-03-01T16:27:43+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/why-webp/"/>
+        <id>https://nomacs.org/blog/why-webp/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/why-webp/">&lt;p&gt;according to a feature request from dadatamada we took a closer look to the webP format.
+the screenshot shows a nightly build of nomacs with webP load&#x2F;save functionality.
+if an image needs to be compressed, webP shows a far better image quality while decreasing the file size.
+note that the jpg compressed image (right) has 16.6 KB while the webP image only needs 6.8 KB.
+another advantage is the fact that webP features a full (8bit) alpha channel and supports lossless compression…&lt;&#x2F;p&gt;
+&lt;img alt=&quot;why webp&quot; src=&quot;why-webp.png&quot; width=&quot;100%&quot;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 1</title>
+        <published>2013-02-21T15:42:13+01:00</published>
+        <updated>2013-02-21T15:42:13+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-1/"/>
+        <id>https://nomacs.org/blog/nomacs-1/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-1/">&lt;p&gt;after one and a half year of development we now release the first (stable) nomacs 1.
+as usual, the windows binaries are already released this time either 32-bit or 64-bit
+(for those who view really huge images).
+Linux, Mac and OS&#x2F;2 will follow soon.&lt;&#x2F;p&gt;
+&lt;p&gt;new features include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;auto update&lt;&#x2F;li&gt;
+&lt;li&gt;image manipulation tools&lt;&#x2F;li&gt;
+&lt;li&gt;beautiful print preview&lt;&#x2F;li&gt;
+&lt;li&gt;find &amp;amp; filter files&lt;&#x2F;li&gt;
+&lt;li&gt;animated gifs (in the 21st century)&lt;&#x2F;li&gt;
+&lt;li&gt;customizable GUI (colorize icons etc.)&lt;&#x2F;li&gt;
+&lt;li&gt;advanced preferences dialog&lt;&#x2F;li&gt;
+&lt;li&gt;window transparency features (frameless &amp;amp; locking = watermark for screenvideos)&lt;&#x2F;li&gt;
+&lt;li&gt;set as wallpaper (windows)&lt;&#x2F;li&gt;
+&lt;li&gt;anti aliasing (smooth image rendering)&lt;&#x2F;li&gt;
+&lt;li&gt;improved de-mosaicing for RAW images&lt;&#x2F;li&gt;
+&lt;li&gt;batch compute thumbnails&lt;&#x2F;li&gt;
+&lt;li&gt;new translations: Spanish, Polish, Slovak and Azerbaijani (thanks to all translators)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs x64</title>
+        <published>2012-11-06T17:44:50+01:00</published>
+        <updated>2012-11-06T17:44:50+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-x64/"/>
+        <id>https://nomacs.org/blog/nomacs-x64/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-x64/">&lt;p&gt;today, we have released a 64-bit (beta) version for Windows.
+So those people that deal with large images could give it a try.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;beta-download&quot;&gt;Beta download&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sourceforge.net&#x2F;projects&#x2F;nomacs&#x2F;files&#x2F;nomacs-0.5.0-beta&#x2F;nomacs-setupx64.exe&#x2F;download&quot;&gt;64-bit setup&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sourceforge.net&#x2F;projects&#x2F;nomacs&#x2F;files&#x2F;nomacs-0.5.0-beta&#x2F;nomacs-0.5.0x64.zip&#x2F;download&quot;&gt;64-bit portable&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Herbie – Diagnostics</title>
+        <published>2012-10-05T19:02:09+02:00</published>
+        <updated>2012-10-05T19:02:09+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/herbie-diagnostics/"/>
+        <id>https://nomacs.org/blog/herbie-diagnostics/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/herbie-diagnostics/">&lt;p&gt;We recently updated Herbie – CPU Diagnostics,
+which is a CPU monitoring widget that perfectly integrates with your desktop (even if you use multiple).
+You can download the (Windows) &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;diemmarkus&#x2F;Herbie&#x2F;releases&#x2F;download&#x2F;0.2&#x2F;herbie-setup.exe&quot;&gt;installer&lt;&#x2F;a&gt;
+from &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;diemmarkus&#x2F;Herbie&#x2F;releases&#x2F;&quot;&gt;github&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;nomacs.org&#x2F;blog&#x2F;herbie-diagnostics&#x2F;screen-small.png&quot; alt=&quot;screen-small&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Short Demo</title>
+        <published>2012-10-03T16:19:02+02:00</published>
+        <updated>2012-10-03T16:19:02+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/short-demo/"/>
+        <id>https://nomacs.org/blog/short-demo/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/short-demo/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;_y6wz1WC4G0?si=zV0-fmduqvCNAA8D&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;p&gt;if you want to get ab overview of nomacs features…&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Demo Video</title>
+        <published>2012-09-30T14:14:34+02:00</published>
+        <updated>2012-09-30T14:14:34+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/demo-video/"/>
+        <id>https://nomacs.org/blog/demo-video/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/demo-video/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;pydMeEbnzA8?si=HimCu0Wo9tLv34lI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;p&gt;for all who want to know what the sync is all about…&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Release Candidate 0.4</title>
+        <published>2012-07-25T13:04:21+02:00</published>
+        <updated>2012-07-25T13:04:21+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/release-candidate-0-4/"/>
+        <id>https://nomacs.org/blog/release-candidate-0-4/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/release-candidate-0-4/">&lt;p&gt;after one year of development, nomacs has become something that we call stable.
+so we released nomacs 0.4.0 Release Candidate today.
+For now it’s just windows – nomacs will be released in the next few days for all Operating Systems supported.&lt;&#x2F;p&gt;
+&lt;p&gt;new features include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Caching images – results in very short loading time&lt;&#x2F;li&gt;
+&lt;li&gt;Thumb run-through – fast folder preview&lt;&#x2F;li&gt;
+&lt;li&gt;Save widget state – widgets remember if they were displayed the last time&lt;&#x2F;li&gt;
+&lt;li&gt;Additional supported formats – *.mrw (Minolta Raw) and *.rw2 (Panasonic Raw)&lt;&#x2F;li&gt;
+&lt;li&gt;Improved  RAW display – colors are now more intensive&lt;&#x2F;li&gt;
+&lt;li&gt;Go To – you can jump to whatever file you like using the new Go To dialog (CTRL+G)&lt;&#x2F;li&gt;
+&lt;li&gt;Unattended installation parameters – improves batch installation for Windows&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;and as usual we have fixed some bugs:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;RAW images for Linux – nomacs did not load raw images with libraw &amp;gt; 0.14.0&lt;&#x2F;li&gt;
+&lt;li&gt;Save dialog – is now a native OS dialog -&amp;gt; speed up&lt;&#x2F;li&gt;
+&lt;li&gt;*.bmp save – error message removed&lt;&#x2F;li&gt;
+&lt;li&gt;Transparency &amp;amp; edit – handling of transparent images (e.g. crop) is corrected&lt;&#x2F;li&gt;
+&lt;li&gt;… and a bunch of small fixes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Please note that the cacher is deactivated by default.
+We did so to save RAM for those who use nomacs in order to display every-day-images.
+Give it a try by changing the preferences: Settings &amp;gt; Resources &amp;gt; Cache Settings&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 0.3.2</title>
+        <published>2012-05-15T16:05:33+02:00</published>
+        <updated>2012-05-15T16:05:33+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-0-3-2/"/>
+        <id>https://nomacs.org/blog/nomacs-0-3-2/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-0-3-2/">&lt;p&gt;today we have released version 0.3.2 as you can see in the version number,
+this is just a minor update which fixes some bugs.
+additionally we were able to speed up the file indexing on windows
+(folders with more than 30 000 files are now indexed in 200 ms compared to 2.5 sec).
+two new features include a percent option in the resize dialog
+(for those who are lazy in mental arithmetics) and a chinese translation.&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>GSoC Projects</title>
+        <published>2012-05-10T11:17:28+02:00</published>
+        <updated>2012-05-10T11:17:28+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/gsoc-projects/"/>
+        <id>https://nomacs.org/blog/gsoc-projects/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/gsoc-projects/">&lt;p&gt;nomacs has been granted two slots from GSoC.
+Hence, two students will be working on HDR imaging and the RAW loader during the summer.
+Take a look at the GSoC project &lt;a href=&quot;&#x2F;blog&#x2F;gsoc-2013&quot;&gt;page&lt;&#x2F;a&gt; for further details
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>GSoC naw</title>
+        <published>2012-03-24T21:21:25+01:00</published>
+        <updated>2012-03-24T21:21:25+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/gsoc-naw/"/>
+        <id>https://nomacs.org/blog/gsoc-naw/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/gsoc-naw/">&lt;p&gt;we want to thank all the students that are interested in nomacs and currently applying for GSoC.
+looking forward for the upcoming applications.
+if in the near future response times are slightly increasing it has something to do with nomacs around the world.
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 0.3.0 and the operating systems</title>
+        <published>2012-03-06T13:15:32+01:00</published>
+        <updated>2012-03-06T13:15:32+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-0-3-0-and-the-operating-systems/"/>
+        <id>https://nomacs.org/blog/nomacs-0-3-0-and-the-operating-systems/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-0-3-0-and-the-operating-systems/">&lt;p&gt;thanks to petr and elbert we now support additional and ancient operating systems.
+new in our list are Fedora 15 &amp;amp; 16 and believe it or not
+&lt;a href=&quot;https:&#x2F;&#x2F;sourceforge.net&#x2F;projects&#x2F;nomacs&#x2F;files&#x2F;nomacs-0.3.0&#x2F;nomacs-0.3.0-os2.zip&#x2F;download&quot;&gt;OS&#x2F;2&lt;&#x2F;a&gt;
+(so you can view images on ATMs now? : )&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 0.3.0</title>
+        <published>2012-03-04T12:32:46+01:00</published>
+        <updated>2012-03-04T12:32:46+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-0-3-0/"/>
+        <id>https://nomacs.org/blog/nomacs-0-3-0/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-0-3-0/">&lt;p&gt;today we’ve released nomacs 0.3.0 for all supported operating systems (windows, ubuntu, openSUSE and mac OS).
+take a look at the download page for more details…&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 0.3.0 is out</title>
+        <published>2012-03-02T17:58:31+01:00</published>
+        <updated>2012-03-02T17:58:31+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-0-3-0-is-out/"/>
+        <id>https://nomacs.org/blog/nomacs-0-3-0-is-out/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-0-3-0-is-out/">&lt;p&gt;today the official 0.3.0 nomacs was released.
+For now its just windows, ubuntu will be released tomorrow and all versions for other OS need a bit more time.&lt;&#x2F;p&gt;
+&lt;p&gt;new features include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open with dialog&lt;&#x2F;li&gt;
+&lt;li&gt;Image cropping&lt;&#x2F;li&gt;
+&lt;li&gt;Resize image&lt;&#x2F;li&gt;
+&lt;li&gt;Pseudo Color function&lt;&#x2F;li&gt;
+&lt;li&gt;Frameless windows&lt;&#x2F;li&gt;
+&lt;li&gt;Translations&lt;&#x2F;li&gt;
+&lt;li&gt;Basic support for stereo images (*.mpo, *.jps, *.pns)&lt;&#x2F;li&gt;
+&lt;li&gt;…and we polished our GUI&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;In addition we did some under the hood improvements&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Full unicode support for filenames&lt;&#x2F;li&gt;
+&lt;li&gt;Start-up time improved&lt;&#x2F;li&gt;
+&lt;li&gt;Performance improvements for images loaded from network drives&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;so you see, we did a lot in the last two months : )
+enjoy the new nomacs&lt;&#x2F;p&gt;
+&lt;p&gt;– the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs translations</title>
+        <published>2012-02-29T14:40:03+01:00</published>
+        <updated>2012-02-29T14:40:03+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-translations/"/>
+        <id>https://nomacs.org/blog/nomacs-translations/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-translations/">&lt;p&gt;we are about to release nomacs 0.2.5 (in the next few days).
+in addition to several bugfixes, performance improvements and features, nomacs will be shipped with translations.
+currently english, german and russian (thanks to dadatamada) are supported.
+if you want the new viewer to talk with you in your language you could translate the current UI at &lt;a href=&quot;https:&#x2F;&#x2F;translate.nomacs.org&quot;&gt;https:&#x2F;&#x2F;translate.nomacs.org&lt;&#x2F;a&gt;.
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>ubuntu launchpad repository</title>
+        <published>2012-01-30T15:16:10+01:00</published>
+        <updated>2012-01-30T15:16:10+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/ubuntu-launchpad-repository/"/>
+        <id>https://nomacs.org/blog/ubuntu-launchpad-repository/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/ubuntu-launchpad-repository/">&lt;p&gt;we have create launchpad repositories for Ubuntu.
+This will make it easier to install nomacs for Ubuntu and to keep it up-to-date.
+To install nomacs using this repository you have to add “ppa:nomacs&#x2F;stable” to your list.
+You can do this by typing&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;sh&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-sh &quot;&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;sudo&lt;&#x2F;span&gt;&lt;span&gt; add-apt-repository ppa:nomacs&#x2F;stable
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;in a console.
+After updating the repositories you should be able to install nomacs using your favorite package manager&lt;&#x2F;p&gt;
+&lt;p&gt;You have also the possibility to install the daily builds of nomacs by adding “ppa:nomacs&#x2F;daily” but these builds are considered as experimental.&lt;&#x2F;p&gt;
+&lt;p&gt;Have fun!&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>ubuntu update</title>
+        <published>2012-01-19T10:05:52+01:00</published>
+        <updated>2012-01-19T10:05:52+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/ubuntu-update/"/>
+        <id>https://nomacs.org/blog/ubuntu-update/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/ubuntu-update/">&lt;p&gt;today is soon!
+we have now added the nomacs 0.2.3 packages for ubuntu (32 and 64 bit).
+you can download them from our &lt;a href=&quot;https:&#x2F;&#x2F;sourceforge.net&#x2F;projects&#x2F;nomacs&#x2F;files&#x2F;nomacs-0.2.3&#x2F;&quot;&gt;sourceforge&lt;&#x2F;a&gt; project page.
+— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>transparent view</title>
+        <published>2012-01-04T16:58:08+01:00</published>
+        <updated>2012-01-04T16:58:08+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/transparent-view/"/>
+        <id>https://nomacs.org/blog/transparent-view/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/transparent-view/">&lt;img alt=&quot;a preview of the transparent view of nomacs&quot; src=&quot;nomacs-transparent-view.png&quot; width=&quot;100%&quot;&gt;
+&lt;p&gt;we’ve implemented a frameless view for nomacs (months ago).
+it is not stable yet (if you zoom in too much it, nomacs will crash :).
+however, if you want to give it a try: just hit F10.
+of course we appreciate any feedback (as usual)&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 0.2.4 test version</title>
+        <published>2011-12-22T14:06:33+01:00</published>
+        <updated>2011-12-22T14:06:33+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-0-2-4-test-version/"/>
+        <id>https://nomacs.org/blog/nomacs-0-2-4-test-version/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-0-2-4-test-version/">&lt;p&gt;we have added an open with feature (#74) – currently it’s just implemented for windows.
+we would appreciate,
+if somebody could test weather the ‘Open With’ dialog automatically detects Photoshop CS4 or older versions,
+Picasa2 and IrfanView &amp;lt; 4.3.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;nomacs.org&#x2F;blog&#x2F;nomacs-0-2-4-test-version&#x2F;img0049.png&quot; alt=&quot;3rd-party-software&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The dialog should look somehow like that screenshot if it works (and the software is installed on your system)&lt;&#x2F;p&gt;
+&lt;p&gt;Here is the test version: windows installer or .zip package&lt;&#x2F;p&gt;
+&lt;p&gt;thanks!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>release updated</title>
+        <published>2011-12-20T16:04:32+01:00</published>
+        <updated>2011-12-20T16:04:32+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/release-updated/"/>
+        <id>https://nomacs.org/blog/release-updated/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/release-updated/">&lt;p&gt;the 0.2.3 release was just updated for windows (to build 2173) since the installer missed some old dll’s
+and the file info fields were unchecked by default.&lt;&#x2F;p&gt;
+&lt;p&gt;merry &lt;a href=&quot;http:&#x2F;&#x2F;www.2xfun.de&#x2F;view.php?file=16433&quot;&gt;christmas&lt;&#x2F;a&gt;…&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomcas team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 0.2.3 packages</title>
+        <published>2011-12-18T15:06:28+01:00</published>
+        <updated>2011-12-18T15:06:28+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-0-2-3-packages/"/>
+        <id>https://nomacs.org/blog/nomacs-0-2-3-packages/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-0-2-3-packages/">&lt;p&gt;we have just added nomacs installer packages for macs and openSUSE.
+The ubuntu and fedora packages will be published soon.
+thanks again to petr vanek for providing these packages
+…and we have started the nomacs around the world tour:&lt;&#x2F;p&gt;
+&lt;p&gt;show nomacs on a large map&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 0.2.3 released</title>
+        <published>2011-12-16T17:54:24+01:00</published>
+        <updated>2011-12-16T17:54:24+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-0-2-3-released/"/>
+        <id>https://nomacs.org/blog/nomacs-0-2-3-released/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-0-2-3-released/">&lt;p&gt;as small pre-christmas present we’ve just released a new version of nomacs.
+we want to thank petr vanek for improving our project infrastructure and shipping nomacs to other operating systems
+(be surprised : )&lt;&#x2F;p&gt;
+&lt;p&gt;new features include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;hide player and nasty labels (e.g. loading) on fullscreen (thanks to asen)&lt;&#x2F;li&gt;
+&lt;li&gt;display information for slideshows&lt;&#x2F;li&gt;
+&lt;li&gt;format metadata&lt;&#x2F;li&gt;
+&lt;li&gt;bugfix in network&lt;&#x2F;li&gt;
+&lt;li&gt;bugfix in save jpg dialog (now the compression rate can be modified again : )&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;a very merry christmas and a happy new year (as lennon sang)&lt;&#x2F;p&gt;
+&lt;p&gt;— the nomacs team&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Public SVN</title>
+        <published>2011-12-05T09:54:30+01:00</published>
+        <updated>2011-12-05T09:54:30+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/public-svn/"/>
+        <id>https://nomacs.org/blog/public-svn/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/public-svn/">&lt;p&gt;to all developers:
+we have now added a public &lt;a href=&quot;https:&#x2F;&#x2F;sourceforge.net&#x2F;p&#x2F;nomacs&#x2F;svn&#x2F;3568&#x2F;tree&#x2F;&quot;&gt;SVN repository&lt;&#x2F;a&gt; to our sourceforge project page.
+and… we are working on cmake config files.
+maybe our source is soon structured and well documented too : )&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs on macs</title>
+        <published>2011-11-17T10:35:49+01:00</published>
+        <updated>2011-11-17T10:35:49+01:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-on-macs/"/>
+        <id>https://nomacs.org/blog/nomacs-on-macs/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-on-macs/">&lt;img alt=&quot;nomacs running on a mac&quot; src=&quot;nomacs-mac.png&quot; width=&quot;100%&quot;&gt;
+&lt;p&gt;you won’t believe it, Petr Vanek compiled nomacs on a mac :)
+thanks!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>first beta version released</title>
+        <published>2011-10-25T15:57:45+02:00</published>
+        <updated>2011-10-25T15:57:45+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/first-beta-version-released/"/>
+        <id>https://nomacs.org/blog/first-beta-version-released/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/first-beta-version-released/">&lt;p&gt;nomacs 0.2.0 is out&lt;&#x2F;p&gt;
+&lt;p&gt;new features include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;start up time improved&lt;&#x2F;li&gt;
+&lt;li&gt;locate your geo referenced images on google maps&lt;&#x2F;li&gt;
+&lt;li&gt;change the image resolution&#x2F;image size&lt;&#x2F;li&gt;
+&lt;li&gt;metadata: added path, file size, resolution&lt;&#x2F;li&gt;
+&lt;li&gt;you can add a temp path – all screenshots or pasted images are stored there&lt;&#x2F;li&gt;
+&lt;li&gt;sync: panning without position matching (for similar images having a different resolution)&lt;&#x2F;li&gt;
+&lt;li&gt;set maximal zoom level for the interpolation (you can even turn off interpolation)&lt;&#x2F;li&gt;
+&lt;li&gt;direct link to bug report&#x2F;feature request added in the help menu&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;… and we fixed a lot of bugs&lt;&#x2F;p&gt;
+&lt;p&gt;since the project is beta now, you can even recommend it to your grandma : )&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs installed on windows 8</title>
+        <published>2011-09-14T15:33:25+02:00</published>
+        <updated>2011-09-14T15:33:25+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-installed-on-windows-8/"/>
+        <id>https://nomacs.org/blog/nomacs-installed-on-windows-8/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-installed-on-windows-8/">&lt;p&gt;we’ve just tested nomacs on windows 8 – 64bit (see screenshots)
+works perfectly : )&lt;&#x2F;p&gt;
+&lt;img alt=&quot;nomacs-windows8-thubmnails&quot; src=&quot;nomacs-thumbs.png&quot; width=&quot;100%&quot;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 0.1.2 released</title>
+        <published>2011-08-31T18:02:01+02:00</published>
+        <updated>2011-08-31T18:02:01+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-0-1-2-released/"/>
+        <id>https://nomacs.org/blog/nomacs-0-1-2-released/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-0-1-2-released/">&lt;p&gt;we again fixed some bugs (it should not crash anymore : )&lt;&#x2F;p&gt;
+&lt;p&gt;loading images is faster and consumes less RAM&lt;&#x2F;p&gt;
+&lt;p&gt;additional ubuntu packages are now provided&lt;&#x2F;p&gt;
+&lt;p&gt;new features include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;arrange synchronized viewers on screen&lt;&#x2F;li&gt;
+&lt;li&gt;fast thumbnail scrolling (with mouse wheel)&lt;&#x2F;li&gt;
+&lt;li&gt;shortcut for sync all added&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;have fun : )&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 0.1.1 released</title>
+        <published>2011-08-12T18:23:04+02:00</published>
+        <updated>2011-08-12T18:23:04+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-0-1-1/"/>
+        <id>https://nomacs.org/blog/nomacs-0-1-1/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-0-1-1/">&lt;p&gt;the new release includes some bug fixes,
+a little bit of gui cosmetics and some additional features (update reminder, PageUp, delete images).&lt;&#x2F;p&gt;
+&lt;p&gt;and… the version includes now a build number&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>nomacs 0.1 released!</title>
+        <published>2011-08-10T14:13:09+02:00</published>
+        <updated>2011-08-10T14:13:09+02:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nomacs.org/blog/nomacs-0-1-released/"/>
+        <id>https://nomacs.org/blog/nomacs-0-1-released/</id>
+        
+        <content type="html" xml:base="https://nomacs.org/blog/nomacs-0-1-released/">&lt;p&gt;nomacs 0.1 is out!&lt;&#x2F;p&gt;
+&lt;p&gt;Synchronize your images, have fun and please give us feedback…&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
