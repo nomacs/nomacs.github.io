@@ -26,7 +26,7 @@ weight = 20
 
 [[extra.list]]
 title = "Image viewing"
-content = 'Supports the most common image formats including RAW.'
+content = 'Supports the most common image formats including RAW. <a href="/docs/documentation/features">Learn more →</a>'
 
 [[extra.list]]
 title = "Image editing"

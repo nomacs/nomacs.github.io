@@ -1,6 +1,6 @@
 +++
-title = "Contributing"
-description = "Find out how to contribute to nomacs."
+title = "Documentation"
+description = "The main documentation"
 template = "docs/section.html"
 sort_by = "weight"
 weight = 4
