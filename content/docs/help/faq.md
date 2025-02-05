@@ -50,7 +50,7 @@ Please see the [How to Contribute](/docs/contributing/how-to-contribute) page.
 
 ## How to translate nomacs?
 
-Check our short introduction on [how to translate nomacs](/docs/contributing/translation) to your language.
+Check out our short introduction on [how to translate nomacs](/docs/contributing/translation) into your language.
 
 ## Does nomacs support Windows XP and/or Vista?
 
