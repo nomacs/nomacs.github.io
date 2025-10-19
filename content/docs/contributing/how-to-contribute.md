@@ -17,7 +17,7 @@ top = false
 The best way to improve nomacs is your contribution.
 You can submit simple changes such as formatting corrections,
 extend manuals and READMEs where appropriate,
-[translate nomacs](https://crowdin.com/project/nomacs),
+[translate nomacs](https://github.com/nomacs/nomacs/blob/master/ImageLounge/manuals/Translation.md),
 fix bugs, or submit new features.
 
 Make sure to read the [Code of Conduct](../code-of-conduct/).
