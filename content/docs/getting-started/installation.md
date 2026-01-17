@@ -2,7 +2,7 @@
 title = "Installation"
 description = "How to install Nomacs."
 date = 2024-02-08T18:39:07Z
-updated = 2024-02-08T18:39:07Z
+updated = 2026-01-17T18:30:49Z
 draft = false
 weight = 30
 sort_by = "weight"
@@ -17,41 +17,35 @@ top = false
 nomacs – Image Lounge is licensed under the GNU General Public License v3
 © Markus Diem, Stefan Fiel, and Florian Kleber, 2011 – 2020
 
-## Windows (7/8/10)
+## 64-bit Windows
 
-- [installer (64 bit)](https://github.com/nomacs/nomacs/releases/latest/download/nomacs-setup-x64.msi)
-- [multi-user installer (64 bit)](https://github.com/nomacs/nomacs/releases/latest/download/nomacs-setup-x64.exe)
-- [nomacs portable .zip package (64 bit)](https://github.com/nomacs/nomacs/releases/latest/download/nomacs-portable-win.zip)
+- [Installer](https://github.com/nomacs/nomacs/releases/latest/download/nomacs-setup-x64.msi)
+- [Portable package](https://github.com/nomacs/nomacs/releases/latest/download/nomacs-portable-win.zip)
 
-## Windows (2000/XP/Vista)
+## Linux
 
-- [nomacs portable .zip package](https://github.com/nomacs/nomacs/releases/download/2.4.6/nomacs-2.4.6-x86-WinXP.zip)
+### Repositories
 
-[Click here for older versions](https://github.com/nomacs/nomacs/releases)
+- [AUR](https://aur.archlinux.org/packages/nomacs)
+- [Fedora](https://packages.fedoraproject.org/pkgs/nomacs/nomacs/index.html)
+- [openSUSE](https://software.opensuse.org/package/nomacs)
+- [Debian](https://packages.debian.org/search?searchon=names&keywords=nomacs)
 
-## Flathub
+  Translations can be installed from the package `nomacs-l10n`.
 
-We maintain a [flathub](https://flathub.org/apps/details/org.nomacs.ImageLounge) app.
-We recommend installing nomacs from there if you want to have the latest version.
+- [Ubuntu](https://packages.ubuntu.com/search?keywords=nomacs&searchon=names)
 
-## Ubuntu and Linux Mint
+  Translations can be installed from the package `nomacs-l10n`.
 
-nomacs is available in the “universe” repository of Ubuntu.
-Just install it using your favorite package manager.
-Translations can be added with `sudo apt-get install nomacs-l10n`.
-Install the heif plugin to load heif images.
+### Distro agnostic
 
-## Debian/Fedora
+- [Flatpak](https://flathub.org/apps/details/org.nomacs.ImageLounge)
+- [AppImage](https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-3.22.0-linux-24.04-x86_64-AppImage.zip)
 
-nomacs is included in the official repositories.
+## MacOS
 
-## Arch Linux
-
-nomacs is available as [an AUR package](https://aur.archlinux.org/packages/nomacs).
-
-## openSUSE
-
-[repositories](https://software.opensuse.org/download/package?project=X11:QtDesktop&package=nomacs) (Tumbleweed, Factory, 12.1, 11.4)
+- [arm64](https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-3.22.0-macOS-arm64.zip)
+- [x86_64](https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-3.22.0-macOS-x86_64.zip)
 
 ## FreeBSD
 
@@ -63,29 +57,9 @@ nomacs is available as [an AUR package](https://aur.archlinux.org/packages/nomac
     make install clean
     ```
 
-## OS/2
+## Build from source
 
-[.7z package](ftp://ftp.netlabs.org/pub/qtapps/nomacs-2.4.6-os2.7z)
+Get the source code from [the latest release tarball](https://github.com/nomacs/nomacs/archive/refs/tags/3.22.0.tar.gz)
+or clone from the [Git repository](https://github.com/nomacs/nomacs).
 
-## Other Linux distribution
-
-If there is no package available for your favorite distribution,
-you can download the [sources](http://github.com/nomacs/nomacs/releases/latest)
-and compile nomacs according to the compile instructions.
-
-## Source
-
-- [Git repository](https://github.com/nomacs/nomacs.git) (containing the source code of nomacs and all dependencies)
-- [Tarball](https://github.com/nomacs/nomacs/releases/)
-
-## nomacs uses these libraries
-
-- OpenCV
-- Qt
-- LibRaw
-- Exiv2
-
-## Herbie – Diagnostics
-
-Herbie is a small cpu monitoring tool.
-[Download](https://github.com/diemmarkus/Herbie/releases/download/0.2/herbie-setup.exe)
+Follow the build instruction in the README.md.
