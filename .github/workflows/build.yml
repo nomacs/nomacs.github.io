@@ -13,10 +13,8 @@ jobs:
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
-        with:
-          submodules: true
       - name: Build only 
-        uses: shalzz/zola-deploy-action@v0.18.0
+        uses: shalzz/zola-deploy-action@v0.22.0
         env:
           BUILD_DIR: .
           BUILD_ONLY: true
@@ -36,7 +34,7 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v4
       - name: Build and deploy
-        uses: shalzz/zola-deploy-action@v0.18.0
+        uses: shalzz/zola-deploy-action@v0.22.0
         env:
           BUILD_DIR: .
           PAGES_BRANCH: gh-pages
