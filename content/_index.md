@@ -7,7 +7,7 @@ title = "nomacs - Image Lounge"
 lead = 'nomacs is a free, open source image viewer, which supports multiple platforms. You can use it for viewing all common image formats including RAW and psd images.'
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
-repo_version = "GitHub v3.16"
+repo_version = "GitHub v3.22.0"
 repo_license = "GNU General Public License v3.0."
 repo_url = "https://github.com/nomacs/nomacs"
 
