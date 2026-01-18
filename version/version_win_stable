@@ -1,0 +1,5 @@
+version 3.22.0
+x64 https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-setup-x64.msi
+x86 https://github.com/nomacs/nomacs/releases
+mac https://github.com/nomacs/nomacs/releases
+XPx86 https://github.com/nomacs/nomacs/releases
