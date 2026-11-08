@@ -40,12 +40,12 @@ nomacs – Image Lounge is licensed under the GNU General Public License v3
 ### Distro agnostic
 
 - [Flatpak](https://flathub.org/apps/details/org.nomacs.ImageLounge)
-- [AppImage](https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-3.22.0-linux-24.04-x86_64-AppImage.zip)
+- [AppImage](https://github.com/nomacs/nomacs/releases/latest/download/nomacs-linux-x86_64.AppImage)
 
 ## MacOS
 
-- [arm64](https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-3.22.0-macOS-arm64.zip)
-- [x86_64](https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-3.22.0-macOS-x86_64.zip)
+- [x86_64](https://github.com/nomacs/nomacs/releases/latest/download/nomacs-macOS-x86_64.dmg)
+- [arm64](https://github.com/nomacs/nomacs/releases/latest/download/nomacs-macOS-arm64.dmg)
 
 ## FreeBSD
 
